@@ -86,7 +86,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T01:36:07Z",
+            "last_commit": "2026-08-16T01:36:25Z",
             "owner": "hyperweb-io",
             "repo": "chain-registry",
             "stars": 70
@@ -238,7 +238,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T18:10:43Z",
+            "last_commit": "2026-08-16T14:53:24Z",
             "owner": "CosmWasm",
             "repo": "cosmwasm",
             "stars": 1147
@@ -286,7 +286,7 @@
           "repo_info": {
             "archived": false,
             "language": "Vue",
-            "last_commit": "2026-07-09T09:05:54Z",
+            "last_commit": "2026-08-16T00:49:27Z",
             "owner": "ping-pub",
             "repo": "explorer",
             "stars": 375
@@ -385,7 +385,7 @@
             "last_commit": "2026-08-15T00:11:21Z",
             "owner": "cosmos",
             "repo": "chain-registry",
-            "stars": 574
+            "stars": 573
           }
         },
         {
@@ -410,7 +410,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T01:36:07Z",
+            "last_commit": "2026-08-16T01:36:25Z",
             "owner": "hyperweb-io",
             "repo": "chain-registry",
             "stars": 70
@@ -570,7 +570,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2025-01-29T22:59:02Z",
+            "last_commit": "2026-08-16T01:08:46Z",
             "owner": "QuokkaStake",
             "repo": "missed-blocks-checker",
             "stars": 9
@@ -697,7 +697,7 @@
             "last_commit": "2026-08-14T12:16:58Z",
             "owner": "cosmos",
             "repo": "cosmos-sdk",
-            "stars": 7047
+            "stars": 7046
           }
         },
         {
@@ -711,7 +711,7 @@
             "last_commit": "2025-09-18T20:47:00Z",
             "owner": "cosmos",
             "repo": "cosmos-rust",
-            "stars": 346
+            "stars": 345
           }
         },
         {
@@ -770,7 +770,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T18:10:43Z",
+            "last_commit": "2026-08-16T14:53:24Z",
             "owner": "CosmWasm",
             "repo": "cosmwasm",
             "stars": 1147
@@ -787,7 +787,7 @@
             "last_commit": "2024-06-09T20:51:08Z",
             "owner": "berachain",
             "repo": "polaris",
-            "stars": 1072
+            "stars": 1071
           }
         },
         {
@@ -953,7 +953,7 @@
             "last_commit": "2026-07-20T13:31:34Z",
             "owner": "quint-co",
             "repo": "quint",
-            "stars": 1604
+            "stars": 1605
           }
         },
         {
@@ -1138,7 +1138,7 @@
             "last_commit": "2026-08-14T12:16:58Z",
             "owner": "cosmos",
             "repo": "cosmos-sdk",
-            "stars": 7047
+            "stars": 7046
           }
         },
         {
@@ -1505,7 +1505,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T19:48:13.784Z",
+    "last_updated": "2026-08-16T19:47:18.185Z",
     "original_repository": "cosmos/awesome-cosmos",
     "original_repository_sha": "ec1d8616aa879ed04204cb07ea4ea98ac42f356f",
     "enhanced_repository": "enhansome/enhansome-cosmos",
