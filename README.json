@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T14:48:37Z",
             "owner": "cosmos",
             "repo": "cosmos-sdk",
-            "stars": 7047
+            "stars": 7049
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-21T13:34:42Z",
             "owner": "cosmos",
             "repo": "ibc-go",
-            "stars": 645
+            "stars": 644
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-05-18T15:01:38Z",
             "owner": "cosmos",
             "repo": "iavl",
-            "stars": 447
+            "stars": 446
           }
         },
         {
@@ -200,7 +200,7 @@
                 "archived": false,
                 "id": 512348794,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T02:29:36Z",
+                "last_commit": "2026-08-23T01:36:14Z",
                 "owner": "hyperweb-io",
                 "repo": "chain-registry",
                 "stars": 70
@@ -423,7 +423,7 @@
             "last_commit": "2026-08-20T11:48:31Z",
             "owner": "ping-pub",
             "repo": "explorer",
-            "stars": 373
+            "stars": 372
           }
         },
         {
@@ -553,7 +553,7 @@
             "archived": false,
             "id": 512348794,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T02:29:36Z",
+            "last_commit": "2026-08-23T01:36:14Z",
             "owner": "hyperweb-io",
             "repo": "chain-registry",
             "stars": 70
@@ -859,7 +859,7 @@
             "last_commit": "2026-08-21T14:48:37Z",
             "owner": "cosmos",
             "repo": "cosmos-sdk",
-            "stars": 7047
+            "stars": 7049
           }
         },
         {
@@ -1006,7 +1006,7 @@
             "last_commit": "2026-08-21T13:34:42Z",
             "owner": "cosmos",
             "repo": "ibc-go",
-            "stars": 645
+            "stars": 644
           }
         },
         {
@@ -1132,7 +1132,7 @@
             "last_commit": "2026-08-20T13:55:29Z",
             "owner": "quint-co",
             "repo": "quint",
-            "stars": 1629
+            "stars": 1630
           }
         },
         {
@@ -1326,7 +1326,7 @@
                 "last_commit": "2026-08-21T14:48:37Z",
                 "owner": "cosmos",
                 "repo": "cosmos-sdk",
-                "stars": 7047
+                "stars": 7049
               }
             },
             {
@@ -1680,7 +1680,7 @@
                 "archived": false,
                 "id": 871804283,
                 "language": "TypeScript",
-                "last_commit": "2026-01-07T19:49:55Z",
+                "last_commit": "2026-08-23T18:57:51Z",
                 "owner": "Cordtus",
                 "repo": "wallet_generator",
                 "stars": 1
@@ -1696,7 +1696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T19:48:27.900Z",
+    "last_updated": "2026-08-23T19:47:58.121Z",
     "original_repository": "cosmos/awesome-cosmos",
     "original_repository_id": 179537864,
     "original_repository_sha": "ec1d8616aa879ed04204cb07ea4ea98ac42f356f",
