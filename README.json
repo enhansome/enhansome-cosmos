@@ -27,7 +27,7 @@
             "archived": false,
             "id": 51193526,
             "language": "Go",
-            "last_commit": "2026-08-24T12:22:16Z",
+            "last_commit": "2026-08-24T16:15:38Z",
             "owner": "cosmos",
             "repo": "cosmos-sdk",
             "stars": 7049
@@ -893,7 +893,7 @@
             "archived": false,
             "id": 51193526,
             "language": "Go",
-            "last_commit": "2026-08-24T12:22:16Z",
+            "last_commit": "2026-08-24T16:15:38Z",
             "owner": "cosmos",
             "repo": "cosmos-sdk",
             "stars": 7049
@@ -1025,7 +1025,7 @@
             "archived": false,
             "id": 169809972,
             "language": "Go",
-            "last_commit": "2026-08-24T14:08:08Z",
+            "last_commit": "2026-08-24T18:45:20Z",
             "owner": "cosmos",
             "repo": "ibc",
             "stars": 1016
@@ -1169,7 +1169,7 @@
             "last_commit": "2026-08-20T13:55:29Z",
             "owner": "quint-co",
             "repo": "quint",
-            "stars": 1633
+            "stars": 1634
           }
         },
         {
@@ -1360,7 +1360,7 @@
                 "archived": false,
                 "id": 51193526,
                 "language": "Go",
-                "last_commit": "2026-08-24T12:22:16Z",
+                "last_commit": "2026-08-24T16:15:38Z",
                 "owner": "cosmos",
                 "repo": "cosmos-sdk",
                 "stars": 7049
@@ -1761,7 +1761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:19:33.889Z",
+    "last_updated": "2026-08-24T19:56:46.596Z",
     "original_repository": "cosmos/awesome-cosmos",
     "original_repository_id": 179537864,
     "original_repository_sha": "ec1d8616aa879ed04204cb07ea4ea98ac42f356f",
