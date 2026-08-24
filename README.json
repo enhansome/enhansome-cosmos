@@ -5,6 +5,21 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Cosmos Hub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 179141420,
+            "language": "Go",
+            "last_commit": "2026-08-21T18:03:59Z",
+            "owner": "cosmos",
+            "repo": "gaia",
+            "stars": 574
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Cosmos SDK",
           "description": null,
           "children": [],
@@ -12,7 +27,7 @@
             "archived": false,
             "id": 51193526,
             "language": "Go",
-            "last_commit": "2026-08-21T14:48:37Z",
+            "last_commit": "2026-08-24T12:22:16Z",
             "owner": "cosmos",
             "repo": "cosmos-sdk",
             "stars": 7049
@@ -42,7 +57,7 @@
             "archived": false,
             "id": 581314918,
             "language": "Go",
-            "last_commit": "2026-08-20T16:03:21Z",
+            "last_commit": "2026-08-24T04:31:42Z",
             "owner": "cometbft",
             "repo": "cometbft",
             "stars": 915
@@ -72,7 +87,7 @@
             "archived": false,
             "id": 337764594,
             "language": "Go",
-            "last_commit": "2026-08-21T13:34:42Z",
+            "last_commit": "2026-08-24T13:36:29Z",
             "owner": "cosmos",
             "repo": "ibc-go",
             "stars": 644
@@ -114,6 +129,28 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ignite CLI",
+              "description": "All-in-one platform to build, launch, and maintain any crypto application on a sovereign and secured blockchain. Quickly bootstraps a new Cosmos SDK blockchain with UI and support to create new and work conveniently with existing Cosmos SDK modules.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 274450818,
+                "language": "Go",
+                "last_commit": "2026-08-17T13:39:47Z",
+                "owner": "ignite",
+                "repo": "cli",
+                "stars": 1350
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Go"
+        },
         {
           "children": [
             {
@@ -200,7 +237,7 @@
                 "archived": false,
                 "id": 512348794,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T01:36:14Z",
+                "last_commit": "2026-08-24T01:36:41Z",
                 "owner": "hyperweb-io",
                 "repo": "chain-registry",
                 "stars": 70
@@ -523,7 +560,7 @@
             "archived": false,
             "id": 370830535,
             "language": "Python",
-            "last_commit": "2026-08-22T00:07:08Z",
+            "last_commit": "2026-08-24T11:48:15Z",
             "owner": "cosmos",
             "repo": "chain-registry",
             "stars": 572
@@ -553,7 +590,7 @@
             "archived": false,
             "id": 512348794,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T01:36:14Z",
+            "last_commit": "2026-08-24T01:36:41Z",
             "owner": "hyperweb-io",
             "repo": "chain-registry",
             "stars": 70
@@ -856,7 +893,7 @@
             "archived": false,
             "id": 51193526,
             "language": "Go",
-            "last_commit": "2026-08-21T14:48:37Z",
+            "last_commit": "2026-08-24T12:22:16Z",
             "owner": "cosmos",
             "repo": "cosmos-sdk",
             "stars": 7049
@@ -925,7 +962,7 @@
             "last_commit": "2024-04-04T18:25:28Z",
             "owner": "evmos",
             "repo": "ethermint",
-            "stars": 1806
+            "stars": 1805
           }
         },
         {
@@ -967,7 +1004,7 @@
             "archived": false,
             "id": 219012610,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T21:58:33Z",
+            "last_commit": "2026-08-24T07:37:44Z",
             "owner": "Agoric",
             "repo": "agoric-sdk",
             "stars": 357
@@ -988,7 +1025,7 @@
             "archived": false,
             "id": 169809972,
             "language": "Go",
-            "last_commit": "2026-08-22T02:33:53Z",
+            "last_commit": "2026-08-24T14:08:08Z",
             "owner": "cosmos",
             "repo": "ibc",
             "stars": 1016
@@ -1003,7 +1040,7 @@
             "archived": false,
             "id": 337764594,
             "language": "Go",
-            "last_commit": "2026-08-21T13:34:42Z",
+            "last_commit": "2026-08-24T13:36:29Z",
             "owner": "cosmos",
             "repo": "ibc-go",
             "stars": 644
@@ -1132,7 +1169,7 @@
             "last_commit": "2026-08-20T13:55:29Z",
             "owner": "quint-co",
             "repo": "quint",
-            "stars": 1630
+            "stars": 1633
           }
         },
         {
@@ -1323,7 +1360,7 @@
                 "archived": false,
                 "id": 51193526,
                 "language": "Go",
-                "last_commit": "2026-08-21T14:48:37Z",
+                "last_commit": "2026-08-24T12:22:16Z",
                 "owner": "cosmos",
                 "repo": "cosmos-sdk",
                 "stars": 7049
@@ -1693,10 +1730,38 @@
         }
       ],
       "title": "Node Operations"
+    },
+    {
+      "description": "As the ecosystem grows, so does the content. DYOR and follow the projects you find interesting.\nDisclaimer: This community-maintained repo does not reflect the views of any official entity.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "(Not So) Smart Cosmos, examples of common Cosmos app vulnerabilities",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 233102473,
+                "language": "Solidity",
+                "last_commit": "2026-04-13T21:32:17Z",
+                "owner": "crytic",
+                "repo": "building-secure-contracts",
+                "stars": 2480
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Articles"
+        }
+      ],
+      "title": "Blogs"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:47:58.121Z",
+    "last_updated": "2026-08-24T14:19:33.889Z",
     "original_repository": "cosmos/awesome-cosmos",
     "original_repository_id": 179537864,
     "original_repository_sha": "ec1d8616aa879ed04204cb07ea4ea98ac42f356f",
