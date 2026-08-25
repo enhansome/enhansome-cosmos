@@ -12,7 +12,7 @@
             "archived": false,
             "id": 179141420,
             "language": "Go",
-            "last_commit": "2026-08-21T18:03:59Z",
+            "last_commit": "2026-08-25T13:32:33Z",
             "owner": "cosmos",
             "repo": "gaia",
             "stars": 574
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 51193526,
             "language": "Go",
-            "last_commit": "2026-08-24T16:15:38Z",
+            "last_commit": "2026-08-25T17:29:11Z",
             "owner": "cosmos",
             "repo": "cosmos-sdk",
             "stars": 7049
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 212116761,
             "language": "Rust",
-            "last_commit": "2026-08-17T14:08:49Z",
+            "last_commit": "2026-08-25T09:58:56Z",
             "owner": "CosmWasm",
             "repo": "cosmwasm",
             "stars": 1145
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 581314918,
             "language": "Go",
-            "last_commit": "2026-08-24T04:31:42Z",
+            "last_commit": "2026-08-25T15:19:55Z",
             "owner": "cometbft",
             "repo": "cometbft",
             "stars": 915
@@ -401,7 +401,7 @@
                 "archived": false,
                 "id": 212116761,
                 "language": "Rust",
-                "last_commit": "2026-08-17T14:08:49Z",
+                "last_commit": "2026-08-25T09:58:56Z",
                 "owner": "CosmWasm",
                 "repo": "cosmwasm",
                 "stars": 1145
@@ -460,7 +460,7 @@
             "last_commit": "2026-08-20T11:48:31Z",
             "owner": "ping-pub",
             "repo": "explorer",
-            "stars": 372
+            "stars": 373
           }
         },
         {
@@ -560,7 +560,7 @@
             "archived": false,
             "id": 370830535,
             "language": "Python",
-            "last_commit": "2026-08-24T11:48:15Z",
+            "last_commit": "2026-08-25T11:46:49Z",
             "owner": "cosmos",
             "repo": "chain-registry",
             "stars": 572
@@ -575,7 +575,7 @@
             "archived": false,
             "id": 466189345,
             "language": "JavaScript",
-            "last_commit": "2025-03-24T17:16:58Z",
+            "last_commit": "2026-08-25T17:45:31Z",
             "owner": "eco-stake",
             "repo": "cosmos-directory",
             "stars": 85
@@ -893,7 +893,7 @@
             "archived": false,
             "id": 51193526,
             "language": "Go",
-            "last_commit": "2026-08-24T16:15:38Z",
+            "last_commit": "2026-08-25T17:29:11Z",
             "owner": "cosmos",
             "repo": "cosmos-sdk",
             "stars": 7049
@@ -911,7 +911,7 @@
             "last_commit": "2025-09-18T20:47:00Z",
             "owner": "cosmos",
             "repo": "cosmos-rust",
-            "stars": 345
+            "stars": 346
           }
         },
         {
@@ -962,7 +962,7 @@
             "last_commit": "2024-04-04T18:25:28Z",
             "owner": "evmos",
             "repo": "ethermint",
-            "stars": 1805
+            "stars": 1804
           }
         },
         {
@@ -974,7 +974,7 @@
             "archived": false,
             "id": 212116761,
             "language": "Rust",
-            "last_commit": "2026-08-17T14:08:49Z",
+            "last_commit": "2026-08-25T09:58:56Z",
             "owner": "CosmWasm",
             "repo": "cosmwasm",
             "stars": 1145
@@ -1025,7 +1025,7 @@
             "archived": false,
             "id": 169809972,
             "language": "Go",
-            "last_commit": "2026-08-25T03:46:15Z",
+            "last_commit": "2026-08-25T19:15:51Z",
             "owner": "cosmos",
             "repo": "ibc",
             "stars": 1016
@@ -1169,7 +1169,7 @@
             "last_commit": "2026-08-20T13:55:29Z",
             "owner": "quint-co",
             "repo": "quint",
-            "stars": 1635
+            "stars": 1637
           }
         },
         {
@@ -1360,7 +1360,7 @@
                 "archived": false,
                 "id": 51193526,
                 "language": "Go",
-                "last_commit": "2026-08-24T16:15:38Z",
+                "last_commit": "2026-08-25T17:29:11Z",
                 "owner": "cosmos",
                 "repo": "cosmos-sdk",
                 "stars": 7049
@@ -1517,7 +1517,7 @@
                 "archived": false,
                 "id": 639470025,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T09:02:53Z",
+                "last_commit": "2026-08-25T11:31:58Z",
                 "owner": "skip-mev",
                 "repo": "skip-go-app",
                 "stars": 31
@@ -1761,7 +1761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:13:14.241Z",
+    "last_updated": "2026-08-25T19:56:57.659Z",
     "original_repository": "cosmos/awesome-cosmos",
     "original_repository_id": 179537864,
     "original_repository_sha": "ec1d8616aa879ed04204cb07ea4ea98ac42f356f",
