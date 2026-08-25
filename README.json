@@ -237,7 +237,7 @@
                 "archived": false,
                 "id": 512348794,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T01:36:41Z",
+                "last_commit": "2026-08-25T02:31:34Z",
                 "owner": "hyperweb-io",
                 "repo": "chain-registry",
                 "stars": 70
@@ -590,7 +590,7 @@
             "archived": false,
             "id": 512348794,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T01:36:41Z",
+            "last_commit": "2026-08-25T02:31:34Z",
             "owner": "hyperweb-io",
             "repo": "chain-registry",
             "stars": 70
@@ -1004,7 +1004,7 @@
             "archived": false,
             "id": 219012610,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T07:37:44Z",
+            "last_commit": "2026-08-24T20:47:24Z",
             "owner": "Agoric",
             "repo": "agoric-sdk",
             "stars": 357
@@ -1025,7 +1025,7 @@
             "archived": false,
             "id": 169809972,
             "language": "Go",
-            "last_commit": "2026-08-24T18:45:20Z",
+            "last_commit": "2026-08-25T03:46:15Z",
             "owner": "cosmos",
             "repo": "ibc",
             "stars": 1016
@@ -1169,7 +1169,7 @@
             "last_commit": "2026-08-20T13:55:29Z",
             "owner": "quint-co",
             "repo": "quint",
-            "stars": 1634
+            "stars": 1635
           }
         },
         {
@@ -1717,7 +1717,7 @@
                 "archived": false,
                 "id": 871804283,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T18:57:51Z",
+                "last_commit": "2026-08-25T03:07:16Z",
                 "owner": "Cordtus",
                 "repo": "wallet_generator",
                 "stars": 1
@@ -1761,7 +1761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T19:56:46.596Z",
+    "last_updated": "2026-08-25T06:13:14.241Z",
     "original_repository": "cosmos/awesome-cosmos",
     "original_repository_id": 179537864,
     "original_repository_sha": "ec1d8616aa879ed04204cb07ea4ea98ac42f356f",
