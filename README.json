@@ -15,7 +15,7 @@
             "last_commit": "2026-08-26T12:56:12Z",
             "owner": "cosmos",
             "repo": "gaia",
-            "stars": 574
+            "stars": 573
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 51193526,
             "language": "Go",
-            "last_commit": "2026-08-26T21:32:48Z",
+            "last_commit": "2026-08-28T02:47:44Z",
             "owner": "cosmos",
             "repo": "cosmos-sdk",
-            "stars": 7051
+            "stars": 7050
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 581314918,
             "language": "Go",
-            "last_commit": "2026-08-27T01:47:10Z",
+            "last_commit": "2026-08-28T01:14:08Z",
             "owner": "cometbft",
             "repo": "cometbft",
-            "stars": 914
+            "stars": 915
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 337764594,
             "language": "Go",
-            "last_commit": "2026-08-24T13:36:29Z",
+            "last_commit": "2026-08-27T19:47:37Z",
             "owner": "cosmos",
             "repo": "ibc-go",
             "stars": 645
@@ -140,7 +140,7 @@
                 "archived": false,
                 "id": 274450818,
                 "language": "Go",
-                "last_commit": "2026-08-17T13:39:47Z",
+                "last_commit": "2026-08-28T02:42:08Z",
                 "owner": "ignite",
                 "repo": "cli",
                 "stars": 1350
@@ -560,10 +560,10 @@
             "archived": false,
             "id": 370830535,
             "language": "Python",
-            "last_commit": "2026-08-27T09:34:43Z",
+            "last_commit": "2026-08-27T11:58:10Z",
             "owner": "cosmos",
             "repo": "chain-registry",
-            "stars": 572
+            "stars": 571
           }
         },
         {
@@ -644,7 +644,7 @@
             "last_commit": "2026-06-16T01:18:42Z",
             "owner": "cosmostation",
             "repo": "cvms",
-            "stars": 75
+            "stars": 74
           }
         },
         {
@@ -830,7 +830,7 @@
             "last_commit": "2024-11-25T08:34:53Z",
             "owner": "forbole",
             "repo": "callisto",
-            "stars": 94
+            "stars": 93
           }
         },
         {
@@ -893,10 +893,10 @@
             "archived": false,
             "id": 51193526,
             "language": "Go",
-            "last_commit": "2026-08-26T21:32:48Z",
+            "last_commit": "2026-08-28T02:47:44Z",
             "owner": "cosmos",
             "repo": "cosmos-sdk",
-            "stars": 7051
+            "stars": 7050
           }
         },
         {
@@ -962,7 +962,7 @@
             "last_commit": "2024-04-04T18:25:28Z",
             "owner": "evmos",
             "repo": "ethermint",
-            "stars": 1803
+            "stars": 1804
           }
         },
         {
@@ -1004,7 +1004,7 @@
             "archived": false,
             "id": 219012610,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T04:09:14Z",
+            "last_commit": "2026-08-28T02:47:59Z",
             "owner": "Agoric",
             "repo": "agoric-sdk",
             "stars": 357
@@ -1040,7 +1040,7 @@
             "archived": false,
             "id": 337764594,
             "language": "Go",
-            "last_commit": "2026-08-24T13:36:29Z",
+            "last_commit": "2026-08-27T19:47:37Z",
             "owner": "cosmos",
             "repo": "ibc-go",
             "stars": 645
@@ -1169,7 +1169,7 @@
             "last_commit": "2026-08-20T13:55:29Z",
             "owner": "quint-co",
             "repo": "quint",
-            "stars": 1638
+            "stars": 1637
           }
         },
         {
@@ -1181,7 +1181,7 @@
             "archived": false,
             "id": 38512019,
             "language": "Scala",
-            "last_commit": "2026-08-26T16:12:37Z",
+            "last_commit": "2026-08-27T14:16:17Z",
             "owner": "apalache-mc",
             "repo": "apalache",
             "stars": 592
@@ -1360,10 +1360,10 @@
                 "archived": false,
                 "id": 51193526,
                 "language": "Go",
-                "last_commit": "2026-08-26T21:32:48Z",
+                "last_commit": "2026-08-28T02:47:44Z",
                 "owner": "cosmos",
                 "repo": "cosmos-sdk",
-                "stars": 7051
+                "stars": 7050
               }
             },
             {
@@ -1748,7 +1748,7 @@
                 "last_commit": "2026-04-13T21:32:17Z",
                 "owner": "crytic",
                 "repo": "building-secure-contracts",
-                "stars": 2481
+                "stars": 2482
               }
             }
           ],
@@ -1761,7 +1761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:32:41.270Z",
+    "last_updated": "2026-08-28T03:39:27.367Z",
     "original_repository_info": {
       "archived": false,
       "id": 179537864,
