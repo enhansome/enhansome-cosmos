@@ -52,9 +52,9 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 
 <!-- -->
 
-* [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/) ⭐ 7,051 | 🐛 229 | 🌐 Go | 📅 2026-08-28
+* [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/) ⭐ 7,052 | 🐛 230 | 🌐 Go | 📅 2026-08-28
 * [CosmWasm](https://github.com/CosmWasm/cosmwasm) ⭐ 1,144 | 🐛 42 | 🌐 Rust | 📅 2026-08-25
-* [CometBFT](https://github.com/cometbft/cometbft) ⭐ 915 | 🐛 272 | 🌐 Go | 📅 2026-08-28
+* [CometBFT](https://github.com/cometbft/cometbft) ⭐ 916 | 🐛 272 | 🌐 Go | 📅 2026-08-28
 * [CosmJS](https://github.com/cosmos/cosmjs) ⭐ 699 | 🐛 191 | 🌐 TypeScript | 📅 2026-05-04
 * [IBC Go](https://github.com/cosmos/ibc-go) ⭐ 644 | 🐛 41 | 🌐 Go | 📅 2026-08-28
 
@@ -79,7 +79,7 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 
 ### Go
 
-* [Ignite CLI](https://github.com/ignite/cli) ⭐ 1,351 | 🐛 11 | 🌐 Go | 📅 2026-08-28 - All-in-one platform to build, launch, and maintain any crypto application on a sovereign and secured blockchain. Quickly bootstraps a new Cosmos SDK blockchain with UI and support to create new and work conveniently with existing Cosmos SDK modules.
+* [Ignite CLI](https://github.com/ignite/cli) ⭐ 1,350 | 🐛 11 | 🌐 Go | 📅 2026-08-28 - All-in-one platform to build, launch, and maintain any crypto application on a sovereign and secured blockchain. Quickly bootstraps a new Cosmos SDK blockchain with UI and support to create new and work conveniently with existing Cosmos SDK modules.
 
 ### JavaScript
 
@@ -189,8 +189,8 @@ The best place to find an accurate list of the Cosmos SDK modules is the project
 
 ## Frameworks
 
-* [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/) ⭐ 7,051 | 🐛 229 | 🌐 Go | 📅 2026-08-28 - A Framework for Building High Value Public Blockchains in Go.
-* [CosmRS](https://github.com/cosmos/cosmos-rust/tree/main/cosmrs) ⭐ 346 | 🐛 16 | 🌐 Rust | 📅 2025-09-18 - Framework for building Cosmos blockchain applications in Rust.
+* [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/) ⭐ 7,052 | 🐛 230 | 🌐 Go | 📅 2026-08-28 - A Framework for Building High Value Public Blockchains in Go.
+* [CosmRS](https://github.com/cosmos/cosmos-rust/tree/main/cosmrs) ⭐ 345 | 🐛 16 | 🌐 Rust | 📅 2025-09-18 - Framework for building Cosmos blockchain applications in Rust.
 * [Orga](https://github.com/nomic-io/orga) ⭐ 174 | 🐛 20 | 🌐 Rust | 📅 2025-01-25 - ABCI framework for state machine transitions in Rust.
 * [ABCI-RS](https://github.com/devashishdxt/abci-rs) ⭐ 31 | 🐛 2 | 🌐 Rust | 📅 2023-03-07 - Rust crate for creating ABCI applications.
 * [CosmosSwift](https://github.com/CosmosSwift) - Build blockchain applications in Swift on top of the Tendermint consensus.
@@ -219,7 +219,7 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 
 ## Testing
 
-* [quint](https://github.com/informalsystems/quint) ⭐ 1,641 | 🐛 249 | 🌐 TypeScript | 📅 2026-08-20 - Executable specification language with delightful tooling.
+* [quint](https://github.com/informalsystems/quint) ⭐ 1,644 | 🐛 249 | 🌐 TypeScript | 📅 2026-08-20 - Executable specification language with delightful tooling.
 * [apalache](https://github.com/informalsystems/apalache) ⭐ 593 | 🐛 261 | 🌐 Scala | 📅 2026-08-28 - APALACHE: symbolic model checker for TLA+ and Quint.
 * [interchaintest](https://github.com/strangelove-ventures/interchaintest) ⭐ 197 | 🐛 78 | 🌐 Go | 📅 2026-02-11 - E2E testing framework for IBC Chains.
 * [tm-load-test](https://github.com/informalsystems/tm-load-test) ⭐ 47 | 🐛 10 | 🌐 Go | 📅 2024-11-15 - CometBFT load test application.
@@ -242,7 +242,7 @@ Templates to help you get started with building a Cosmos SDK blockchain.
 
 ### CLI
 
-* [cosmosvisor](https://github.com/cosmos/cosmos-sdk/tree/main/cosmovisor#readme) ⭐ 7,051 | 🐛 229 | 🌐 Go | 📅 2026-08-28 - Automates Cosmos SDK application binary upgrades.
+* [cosmosvisor](https://github.com/cosmos/cosmos-sdk/tree/main/cosmovisor#readme) ⭐ 7,052 | 🐛 230 | 🌐 Go | 📅 2026-08-28 - Automates Cosmos SDK application binary upgrades.
 * [tmkms](https://github.com/iqlusioninc/tmkms) ⭐ 367 | 🐛 30 | 🌐 Rust | 📅 2026-04-06 - Key Management System for Tendermint validators.
 * [lens](https://github.com/strangelove-ventures/lens) ⚠️ Archived - CLI tool to interact with any Cosmos chain supporting the core Cosmos-SDK modules.
 * [cosmos.nix](https://github.com/informalsystems/cosmos.nix) ⭐ 62 | 🐛 13 | 🌐 Nix | 📅 2025-08-29 - [Nix](https://nixos.org/) support for Cosmos and CosmWasm.
@@ -277,7 +277,7 @@ Templates to help you get started with building a Cosmos SDK blockchain.
 ### Utilities
 
 * [cosmos-operator](https://github.com/strangelove-ventures/cosmos-operator) ⭐ 101 | 🐛 53 | 🌐 Go | 📅 2026-04-11 - Cosmos Operator is a kubernetes operator for managing cosmos nodes.
-* [Cosmos Cache](https://github.com/Reecepbcups/cosmos-endpoint-cache) ⭐ 26 | 🐛 10 | 🌐 Python | 📅 2023-11-22 - Optimize Cosmos queries by caching responses for predefined sets of time (regex).
+* [Cosmos Cache](https://github.com/Reecepbcups/cosmos-endpoint-cache) ⭐ 25 | 🐛 10 | 🌐 Python | 📅 2023-11-22 - Optimize Cosmos queries by caching responses for predefined sets of time (regex).
 * [Wallet-generator](https://github.com/Cordtus/wallet_generator) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-25 - Manually generate a keypair + wallet addresses from mnemonic, pubkey + wallet addresses from privkey, or wallet addresses from pubkey. Accepts arbitrary HDpath (incl. cointype)
 
 ## Ecosystem
