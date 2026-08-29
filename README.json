@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cosmos Hub",
+            "homepage": "https://hub.cosmos.network",
             "id": 179141420,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T12:56:12Z",
+            "open_issues": 45,
             "owner": "cosmos",
             "repo": "gaia",
-            "stars": 573
+            "stars": 573,
+            "topics": [
+              "blockchain",
+              "cosmos",
+              "cosmos-hub",
+              "cosmos-sdk",
+              "golang",
+              "ibc",
+              "interchain-security"
+            ]
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -26,12 +39,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Framework for building performant, customizable blockchains with native interoperability",
+            "homepage": "https://cosmos.network/",
             "id": 51193526,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T17:08:30Z",
+            "open_issues": 229,
             "owner": "cosmos",
             "repo": "cosmos-sdk",
-            "stars": 7051
+            "stars": 7051,
+            "topics": [
+              "blockchain",
+              "cometbft",
+              "cosmos-sdk",
+              "cryptocurrency",
+              "go",
+              "golang",
+              "tendermint"
+            ]
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -42,12 +68,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebAssembly Smart Contracts for the Cosmos SDK",
+            "homepage": "https://www.cosmwasm.com",
             "id": 212116761,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T09:58:56Z",
+            "open_issues": 42,
             "owner": "CosmWasm",
             "repo": "cosmwasm",
-            "stars": 1144
+            "stars": 1144,
+            "topics": [
+              "cosmos-sdk",
+              "rust",
+              "smart-contracts",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -58,12 +94,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CometBFT: A distributed, Byzantine fault-tolerant, deterministic state machine replication engine. A fork and successor to Tendermint Core.",
+            "homepage": "https://docs.cosmos.network/cometbft",
             "id": 581314918,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T16:43:43Z",
+            "open_issues": 272,
             "owner": "cometbft",
             "repo": "cometbft",
-            "stars": 915
+            "stars": 915,
+            "topics": [
+              "bft",
+              "blockchain",
+              "cosmos",
+              "database",
+              "distributed-systems",
+              "go",
+              "tendermint-consensus"
+            ]
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -74,12 +123,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Swiss Army knife to power JavaScript based client solutions ranging from Web apps/explorers over browser extensions to server-side clients like faucets/scrapers.",
+            "homepage": "https://cosmos.github.io/cosmjs/",
             "id": 235533792,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-04T16:13:46Z",
+            "open_issues": 191,
             "owner": "cosmos",
             "repo": "cosmjs",
-            "stars": 699
+            "stars": 699,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -90,12 +144,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Inter-Blockchain Communication Protocol (IBC) implementation in Golang.",
+            "homepage": "https://cosmos.network/ibc-interoperability",
             "id": 337764594,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T13:35:03Z",
+            "open_issues": 41,
             "owner": "cosmos",
             "repo": "ibc-go",
-            "stars": 644
+            "stars": 644,
+            "topics": [
+              "cosmos"
+            ]
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -106,12 +167,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Merkleized IAVL+ Tree implementation in Go",
+            "homepage": null,
             "id": 101988156,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-18T15:01:38Z",
+            "open_issues": 78,
             "owner": "cosmos",
             "repo": "iavl",
-            "stars": 446
+            "stars": 446,
+            "topics": [
+              "blockchain",
+              "cryptography",
+              "merkle-tree"
+            ]
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -122,12 +192,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Building generic merkle proof format for IBC",
+            "homepage": null,
             "id": 181555544,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-13T09:02:39Z",
+            "open_issues": 33,
             "owner": "cosmos",
             "repo": "ics23",
-            "stars": 129
+            "stars": 129,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         }
@@ -146,12 +221,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ignite is a CLI tool and hub designed for constructing Proof of Stake Blockchains rooted in Cosmos-SDK",
+                "homepage": "https://ignite.com",
                 "id": 274450818,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T02:42:08Z",
+                "open_issues": 11,
                 "owner": "ignite",
                 "repo": "cli",
-                "stars": 1351
+                "stars": 1351,
+                "topics": [
+                  "blockchain",
+                  "cli",
+                  "cosmos-sdk",
+                  "ignite",
+                  "tendermint"
+                ]
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             }
@@ -169,12 +255,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Swiss Army knife to power JavaScript based client solutions ranging from Web apps/explorers over browser extensions to server-side clients like faucets/scrapers.",
+                "homepage": "https://cosmos.github.io/cosmjs/",
                 "id": 235533792,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-04T16:13:46Z",
+                "open_issues": 191,
                 "owner": "cosmos",
                 "repo": "cosmjs",
-                "stars": 699
+                "stars": 699,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             },
@@ -185,12 +276,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Universal wallet connector for the Cosmos ⚛️",
+                "homepage": "https://hyperweb.io/stack/cosmos-kit",
                 "id": 513657817,
                 "language": "TypeScript",
+                "license": "BSD-3-Clause-Clear",
                 "last_commit": "2026-03-01T05:15:37Z",
+                "open_issues": 45,
                 "owner": "hyperweb-io",
                 "repo": "cosmos-kit",
-                "stars": 201
+                "stars": 201,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             },
@@ -201,12 +297,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Set up a modern Cosmos app by running one command ⚛️",
+                "homepage": "https://hyperweb.io/stack/create-cosmos-app",
                 "id": 519174922,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-12-11T06:49:18Z",
+                "open_issues": 40,
                 "owner": "hyperweb-io",
                 "repo": "create-cosmos-app",
-                "stars": 166
+                "stars": 166,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             },
@@ -217,12 +318,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Your InterchainJS Companion: A TypeScript Transpiler for Cosmos SDK Protobufs ⚛️",
+                "homepage": "https://hyperweb.io/stack/telescope",
                 "id": 476425897,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-02T00:50:01Z",
+                "open_issues": 165,
                 "owner": "hyperweb-io",
                 "repo": "telescope",
-                "stars": 154
+                "stars": 154,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             },
@@ -233,12 +339,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React hooks for Cosmos 🪐",
+                "homepage": "https://graz.sh/",
                 "id": 509500310,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-30T13:09:29Z",
+                "open_issues": 17,
                 "owner": "graz-sh",
                 "repo": "graz",
-                "stars": 124
+                "stars": 124,
+                "topics": [
+                  "cosmjs",
+                  "cosmos",
+                  "cosmos-sdk",
+                  "graz",
+                  "keplr",
+                  "keplr-wallet",
+                  "leap",
+                  "leap-wallet",
+                  "react-cosmos-hooks",
+                  "use-keplr",
+                  "vectis",
+                  "vectis-wallet",
+                  "wallet-connect"
+                ]
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             },
@@ -249,12 +374,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cosmos chain registry ⚛️",
+                "homepage": "https://hyperweb.io/stack/chain-registry",
                 "id": 512348794,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-29T02:22:26Z",
+                "open_issues": 20,
                 "owner": "hyperweb-io",
                 "repo": "chain-registry",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             },
@@ -265,12 +395,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 206756512,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2021-03-09T16:52:51Z",
+                "open_issues": 9,
                 "owner": "chainapsis",
                 "repo": "cosmosjs",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             },
@@ -281,12 +416,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 238142522,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-08T08:31:12Z",
+                "open_issues": 13,
                 "owner": "cosmos-client",
                 "repo": "cosmos-client-ts",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             },
@@ -297,12 +437,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Quirks is a universal wallet adapter for your dApps.",
+                "homepage": "https://quirks.nabla.studio/",
                 "id": 709023809,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-14T15:37:15Z",
+                "open_issues": 4,
                 "owner": "nabla-studio",
                 "repo": "quirks",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "cosmjs",
+                  "cosmos",
+                  "dapp",
+                  "mobile",
+                  "nextjs",
+                  "nuxtjs",
+                  "react",
+                  "reactnative",
+                  "vue3"
+                ]
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             },
@@ -313,12 +468,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cosmos Bip44 implementation for development and education",
+                "homepage": null,
                 "id": 320077936,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2024-01-28T20:42:47Z",
+                "open_issues": 0,
                 "owner": "toschdev",
                 "repo": "cosmos-bip44",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             }
@@ -336,12 +496,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python client library for interacting with blockchains based on the Cosmos-SDK",
+                "homepage": null,
                 "id": 378897019,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-05T11:04:57Z",
+                "open_issues": 43,
                 "owner": "fetchai",
                 "repo": "cosmpy",
-                "stars": 149
+                "stars": 149,
+                "topics": [
+                  "blockchain",
+                  "cryptocurrency",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             },
@@ -352,12 +521,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extendable python library for the cosmos ecosystem. ",
+                "homepage": "https://mospy.ctrl-felix.de/",
                 "id": 516827391,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-08-03T15:06:49Z",
+                "open_issues": 1,
                 "owner": "ctrl-Felix",
                 "repo": "mospy",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "blockchain",
+                  "cosmos",
+                  "evmos",
+                  "mospy",
+                  "osmosis"
+                ]
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             },
@@ -368,12 +548,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cosmos Protobuf library",
+                "homepage": null,
                 "id": 487660875,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-12-30T21:37:00Z",
+                "open_issues": 6,
                 "owner": "ctrl-Felix",
                 "repo": "cosmospy-protobuf",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             },
@@ -384,12 +569,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A python3 wrapper around Cosmos API/RPC brought to you by ChihuahuaChain",
+                "homepage": null,
                 "id": 532880076,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-01-26T11:48:03Z",
+                "open_issues": 0,
                 "owner": "ChihuahuaChain",
                 "repo": "pyCosmicWrap",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             },
@@ -400,12 +590,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A useful tool for sending cosmos transactions",
+                "homepage": null,
                 "id": 521091436,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-06T01:56:21Z",
+                "open_issues": 0,
                 "owner": "PundiAI",
                 "repo": "fx-py-sdk",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "blockchain",
+                  "cosmos-sdk"
+                ]
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             }
@@ -423,12 +621,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WebAssembly Smart Contracts for the Cosmos SDK",
+                "homepage": "https://www.cosmwasm.com",
                 "id": 212116761,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T09:58:56Z",
+                "open_issues": 42,
                 "owner": "CosmWasm",
                 "repo": "cosmwasm",
-                "stars": 1144
+                "stars": 1144,
+                "topics": [
+                  "cosmos-sdk",
+                  "rust",
+                  "smart-contracts",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             },
@@ -439,12 +647,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of open source Rust crates from iqlusion",
+                "homepage": "https://www.iqlusion.io",
                 "id": 126305094,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-15T06:23:28Z",
+                "open_issues": 51,
                 "owner": "iqlusioninc",
                 "repo": "crates",
-                "stars": 578
+                "stars": 578,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             },
@@ -455,12 +668,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 452395344,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-26T22:23:06Z",
+                "open_issues": 15,
                 "owner": "PeggyJV",
                 "repo": "ocular",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "cosmos",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             }
@@ -482,12 +703,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A light explorer for Cosmos-based Blockchains.",
+            "homepage": "https://ping.pub",
             "id": 204423484,
             "language": "Vue",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-20T11:48:31Z",
+            "open_issues": 43,
             "owner": "ping-pub",
             "repo": "explorer",
-            "stars": 373
+            "stars": 373,
+            "topics": [
+              "blockchain"
+            ]
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -498,12 +726,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://bigdipper.live",
             "id": 350972215,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-25T08:35:18Z",
+            "open_issues": 38,
             "owner": "forbole",
             "repo": "big-dipper-2.0-cosmos",
-            "stars": 150
+            "stars": 150,
+            "topics": [
+              "block-explorer",
+              "blockchain",
+              "cosmos",
+              "cosmos-hub",
+              "cosmos-sdk",
+              "cryptocurrency",
+              "decentralized",
+              "staking",
+              "tendermint",
+              "validators"
+            ]
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -516,12 +760,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "In-terminal explorer for Cosmos SDK blockchains.",
+                "homepage": null,
                 "id": 300543468,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2024-03-26T14:48:32Z",
+                "open_issues": 4,
                 "owner": "cosmos",
                 "repo": "gex",
-                "stars": 95
+                "stars": 95,
+                "topics": [
+                  "blockchain",
+                  "cosmossdk",
+                  "rpc",
+                  "tendermint",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             },
@@ -532,12 +787,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "top-like tui for watching validator pre-votes on Tendermint chains",
+                "homepage": null,
                 "id": 544521456,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2023-05-17T06:13:07Z",
+                "open_issues": 6,
                 "owner": "blockpane",
                 "repo": "pvtop",
-                "stars": 94
+                "stars": 94,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             },
@@ -548,12 +808,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A top-like chain consensus and chain info visualizer for all Tendermint chains.",
+                "homepage": null,
                 "id": 710885427,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2025-05-20T22:46:06Z",
+                "open_issues": 4,
                 "owner": "QuokkaStake",
                 "repo": "tmtop",
-                "stars": 74
+                "stars": 74,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             },
@@ -564,12 +829,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Block explorer for cosmos-sdk based application",
+                "homepage": null,
                 "id": 591997005,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2023-02-23T04:43:48Z",
+                "open_issues": 0,
                 "owner": "gsk967",
                 "repo": "cshtop",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "block-explorer",
+                  "cosmos-sdk"
+                ]
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             }
@@ -591,12 +864,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 370830535,
             "language": "Python",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-08-28T12:50:36Z",
+            "open_issues": 110,
             "owner": "cosmos",
             "repo": "chain-registry",
-            "stars": 571
+            "stars": 571,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -607,12 +885,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚛️ · 📖",
+            "homepage": "https://cosmos.directory",
             "id": 466189345,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T17:45:31Z",
+            "open_issues": 9,
             "owner": "eco-stake",
             "repo": "cosmos-directory",
-            "stars": 85
+            "stars": 85,
+            "topics": [
+              "api",
+              "cosmos",
+              "load-balancer",
+              "proxy",
+              "tendermint"
+            ]
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -623,12 +912,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cosmos chain registry ⚛️",
+            "homepage": "https://hyperweb.io/stack/chain-registry",
             "id": 512348794,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-29T02:22:26Z",
+            "open_issues": 20,
             "owner": "hyperweb-io",
             "repo": "chain-registry",
-            "stars": 70
+            "stars": 70,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         }
@@ -645,12 +939,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Notification tool for Cosmos/Tendermint validators, sends alerts when missing pre-commits",
+            "homepage": null,
             "id": 399938500,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2024-12-06T22:20:49Z",
+            "open_issues": 26,
             "owner": "blockpane",
             "repo": "tenderduty",
-            "stars": 170
+            "stars": 170,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -661,12 +960,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PANIC Monitoring and Alerting For Blockchains",
+            "homepage": null,
             "id": 344814882,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-24T14:15:16Z",
+            "open_issues": 108,
             "owner": "SimplyStaking",
             "repo": "panic",
-            "stars": 85
+            "stars": 85,
+            "topics": [
+              "alerter",
+              "blockchain",
+              "chainlink",
+              "cosmos",
+              "monitoring",
+              "substrate"
+            ]
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -677,12 +988,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Cosmos Validator Monitoring Service(CVMS) is integrated monitoring system for validators in the Cosmos app chain ecosystem",
+            "homepage": "https://public-cvms.cosmostation.io/",
             "id": 887647870,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-06-16T01:18:42Z",
+            "open_issues": 16,
             "owner": "cosmostation",
             "repo": "cvms",
-            "stars": 74
+            "stars": 74,
+            "topics": [
+              "cosmos",
+              "cosmos-sdk",
+              "monitoring",
+              "tools",
+              "validator"
+            ]
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -693,12 +1015,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Grafana dashboard compatible with all the cosmos-sdk and tendermint based blockchains.",
+            "homepage": null,
             "id": 217228218,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2019-10-24T09:44:34Z",
+            "open_issues": 0,
             "owner": "zhangyelong",
             "repo": "cosmos-dashboard",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -709,12 +1036,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sagan is an observability tool for Cosmos and other Tendermint applications",
+            "homepage": null,
             "id": 197648632,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2023-05-16T20:00:58Z",
+            "open_issues": 14,
             "owner": "iqlusioninc",
             "repo": "cosmon",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -725,12 +1057,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Integrated Exporter for CosmosSDK",
+            "homepage": null,
             "id": 254275686,
             "language": "Go",
+            "license": null,
             "last_commit": "2023-02-15T03:57:53Z",
+            "open_issues": 5,
             "owner": "node-a-team",
             "repo": "Cosmos-IE",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -741,12 +1078,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool to notify you if you miss a proposal vote on any cosmos-sdk chain",
+            "homepage": null,
             "id": 498516365,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2025-01-25T12:36:34Z",
+            "open_issues": 0,
             "owner": "QuokkaStake",
             "repo": "cosmos-proposals-checker",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -757,12 +1099,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Prometheus exporter to fetch data about your validators in Cosmos-based blockchains.",
+            "homepage": null,
             "id": 518783140,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-03-14T23:05:00Z",
+            "open_issues": 0,
             "owner": "QuokkaStake",
             "repo": "cosmos-validators-exporter",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -773,12 +1120,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Track any transactions you need on multiple Cosmos chains",
+            "homepage": null,
             "id": 583128333,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2025-01-06T02:47:46Z",
+            "open_issues": 1,
             "owner": "QuokkaStake",
             "repo": "cosmos-transactions-bot",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -789,12 +1141,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Prometheus exporter for Cosmos node operators, exposing node status metrics, Cosmosvisor upgrades info and many more.",
+            "homepage": null,
             "id": 571183014,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2025-01-05T00:10:15Z",
+            "open_issues": 0,
             "owner": "QuokkaStake",
             "repo": "cosmos-node-exporter",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -805,12 +1162,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool to notify about validators' missed blocks/jails/etc on multiple Cosmos chains",
+            "homepage": null,
             "id": 619952031,
             "language": "Go",
+            "license": null,
             "last_commit": "2026-08-16T01:08:46Z",
+            "open_issues": 2,
             "owner": "QuokkaStake",
             "repo": "missed-blocks-checker",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -821,12 +1183,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Monitoring tool for IBC relayers",
+            "homepage": null,
             "id": 691178580,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2023-11-20T15:04:48Z",
+            "open_issues": 6,
             "owner": "informalsystems",
             "repo": "chainpulse",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -837,12 +1204,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Prometheus scraper to fetch data about your wallet balances in Cosmos-based blockchains.",
+            "homepage": null,
             "id": 514163883,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2024-09-21T22:50:48Z",
+            "open_issues": 0,
             "owner": "QuokkaStake",
             "repo": "cosmos-wallets-exporter",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -853,12 +1225,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cosmos Chains Upgrades Watchdog",
+            "homepage": null,
             "id": 569464075,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2022-11-27T12:37:38Z",
+            "open_issues": 0,
             "owner": "ChihuahuaChain",
             "repo": "UpgradesWatchdog",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         }
@@ -875,12 +1252,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Callisto (formerly BDJuno) is the official Juno implementation for Big Dipper, the open-source block explorer for Cosmos",
+            "homepage": "https://bigdipper.live",
             "id": 253669806,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-11-25T08:34:53Z",
+            "open_issues": 44,
             "owner": "forbole",
             "repo": "callisto",
-            "stars": 93
+            "stars": 93,
+            "topics": [
+              "cosmos",
+              "go",
+              "golang",
+              "graphql",
+              "hacktoberfest",
+              "postgresql"
+            ]
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -891,12 +1280,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An opensource cosmos indexer!",
+            "homepage": "https://defiantlabs.net",
             "id": 705357782,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-19T15:03:59Z",
+            "open_issues": 11,
             "owner": "bryanlabs",
             "repo": "cosmos-indexer-sdk",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -907,12 +1301,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Indexer engine with PostgreSQL for cosmos based blockchain",
+            "homepage": null,
             "id": 580293426,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-11-20T00:30:25Z",
+            "open_issues": 2,
             "owner": "cosmscan",
             "repo": "cosmscan-go",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -923,12 +1322,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cosmos / interchain blockchain indexer written in Python",
+            "homepage": null,
             "id": 623745681,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-08-04T19:36:07Z",
+            "open_issues": 8,
             "owner": "reecepbcups",
             "repo": "interchain-indexer",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         }
@@ -945,12 +1349,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Framework for building performant, customizable blockchains with native interoperability",
+            "homepage": "https://cosmos.network/",
             "id": 51193526,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T17:08:30Z",
+            "open_issues": 229,
             "owner": "cosmos",
             "repo": "cosmos-sdk",
-            "stars": 7051
+            "stars": 7051,
+            "topics": [
+              "blockchain",
+              "cometbft",
+              "cosmos-sdk",
+              "cryptocurrency",
+              "go",
+              "golang",
+              "tendermint"
+            ]
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -961,12 +1378,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The home of all shared Rust resources for the Cosmos ecosystem.",
+            "homepage": null,
             "id": 316550749,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-18T20:47:00Z",
+            "open_issues": 16,
             "owner": "cosmos",
             "repo": "cosmos-rust",
-            "stars": 346
+            "stars": 346,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -977,12 +1399,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deterministic state machine engine written in Rust",
+            "homepage": null,
             "id": 214323030,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-25T21:52:51Z",
+            "open_issues": 20,
             "owner": "turbofish-org",
             "repo": "orga",
-            "stars": 174
+            "stars": 174,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -993,12 +1420,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust crate for creating ABCI applications",
+            "homepage": "https://devashishdxt.github.io/abci-rs/abci",
             "id": 211289110,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-07T21:58:19Z",
+            "open_issues": 2,
             "owner": "devashishdxt",
             "repo": "abci-rs",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         }
@@ -1015,12 +1447,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Ethermint is a Cosmos SDK library for running scalable and interoperable EVM chains",
+            "homepage": "https://docs.evmos.org/",
             "id": 358841284,
             "language": "Go",
+            "license": "LGPL-3.0",
             "last_commit": "2024-04-04T18:25:28Z",
+            "open_issues": 33,
             "owner": "evmos",
             "repo": "ethermint",
-            "stars": 1804
+            "stars": 1804,
+            "topics": [
+              "blockchain",
+              "cosmos-sdk",
+              "ethereum",
+              "evm",
+              "go",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -1031,12 +1475,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebAssembly Smart Contracts for the Cosmos SDK",
+            "homepage": "https://www.cosmwasm.com",
             "id": 212116761,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T09:58:56Z",
+            "open_issues": 42,
             "owner": "CosmWasm",
             "repo": "cosmwasm",
-            "stars": 1144
+            "stars": 1144,
+            "topics": [
+              "cosmos-sdk",
+              "rust",
+              "smart-contracts",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -1047,12 +1501,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Polaris is a modular implementation of the Ethereum Virtual Machine (EVM). It can be easily integrated into any consensus engine or application, including the Cosmos-SDK.",
+            "homepage": "https://polaris.berachain.dev/",
             "id": 587350711,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2024-06-09T20:51:08Z",
+            "open_issues": 144,
             "owner": "berachain",
             "repo": "polaris",
-            "stars": 1071
+            "stars": 1071,
+            "topics": [
+              "blockchain",
+              "cosmos",
+              "defi",
+              "ethereum",
+              "evm",
+              "go",
+              "golang",
+              "mev",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -1063,12 +1532,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "monorepo for the Agoric Javascript smart contract platform",
+            "homepage": null,
             "id": 219012610,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:01:14Z",
+            "open_issues": 1808,
             "owner": "Agoric",
             "repo": "agoric-sdk",
-            "stars": 357
+            "stars": 357,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         }
@@ -1085,12 +1559,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interchain Standards (ICS) for the Cosmos network & interchain ecosystem.",
+            "homepage": null,
             "id": 169809972,
             "language": "Go",
-            "last_commit": "2026-08-28T21:51:35Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:51:16Z",
+            "open_issues": 47,
             "owner": "cosmos",
             "repo": "ibc",
-            "stars": 1017
+            "stars": 1017,
+            "topics": [
+              "blockchain",
+              "cosmos",
+              "distributed-ledger",
+              "interchain"
+            ]
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -1101,12 +1585,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Inter-Blockchain Communication Protocol (IBC) implementation in Golang.",
+            "homepage": "https://cosmos.network/ibc-interoperability",
             "id": 337764594,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T13:35:03Z",
+            "open_issues": 41,
             "owner": "cosmos",
             "repo": "ibc-go",
-            "stars": 644
+            "stars": 644,
+            "topics": [
+              "cosmos"
+            ]
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -1117,12 +1608,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IBC Relayer in Rust",
+            "homepage": "https://hermes.informal.systems",
             "id": 242750177,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-29T18:07:16Z",
+            "open_issues": 220,
             "owner": "informalsystems",
             "repo": "hermes",
-            "stars": 505
+            "stars": 505,
+            "topics": [
+              "blockchain",
+              "cosmos",
+              "ibc",
+              "rust",
+              "tendermint"
+            ]
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -1133,12 +1635,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An IBC relayer for ibc-go",
+            "homepage": null,
             "id": 244008754,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-04-16T22:39:23Z",
+            "open_issues": 95,
             "owner": "cosmos",
             "repo": "relayer",
-            "stars": 413
+            "stars": 413,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -1149,12 +1656,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust implementation of the Inter-Blockchain Communication (IBC) protocol.",
+            "homepage": null,
             "id": 542730441,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-10T14:54:51Z",
+            "open_issues": 116,
             "owner": "informalsystems",
             "repo": "ibc-rs",
-            "stars": 224
+            "stars": 224,
+            "topics": [
+              "blockchain",
+              "cosmos",
+              "ibc",
+              "rust",
+              "tendermint"
+            ]
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -1165,12 +1683,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "e2e testing framework for the interchain",
+            "homepage": "https://interchaintest-docs.vercel.app",
             "id": 457886172,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-11T07:05:40Z",
+            "open_issues": 78,
             "owner": "strangelove-ventures",
             "repo": "interchaintest",
-            "stars": 197
+            "stars": 197,
+            "topics": [
+              "cosmos",
+              "go",
+              "ibc",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -1181,12 +1709,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "IBC Relayer in TypeScript",
+            "homepage": null,
             "id": 333112108,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-07-21T11:26:06Z",
+            "open_issues": 26,
             "owner": "confio",
             "repo": "ts-relayer",
-            "stars": 112
+            "stars": 112,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -1197,12 +1730,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A local testing environment for any IBC chain via InterchainTest",
+            "homepage": null,
             "id": 646252900,
             "language": "Go",
+            "license": null,
             "last_commit": "2023-09-23T04:46:27Z",
+            "open_issues": 4,
             "owner": "reecepbcups",
             "repo": "local-interchain",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -1213,12 +1751,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple tool for confirming the balance of an ibc escrow account matches the on-chain balance of the bank module on the counterparty chain.",
+            "homepage": null,
             "id": 831209654,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-22T01:01:24Z",
+            "open_issues": 0,
             "owner": "Cordtus",
             "repo": "ibc-escrow",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         }
@@ -1235,12 +1778,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An executable specification language  with delightful tooling based on the temporal logic of actions (TLA)",
+            "homepage": "https://quint.sh",
             "id": 371719112,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-20T13:55:29Z",
+            "open_issues": 249,
             "owner": "quint-co",
             "repo": "quint",
-            "stars": 1641
+            "stars": 1641,
+            "topics": [
+              "apalache",
+              "formal-methods",
+              "language",
+              "quint",
+              "specification",
+              "specification-language",
+              "tlaplus",
+              "verification"
+            ]
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -1251,12 +1808,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "APALACHE: symbolic model checker for TLA+ and Quint",
+            "homepage": "https://apalache-mc.org/",
             "id": 38512019,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T14:06:50Z",
+            "open_issues": 261,
             "owner": "apalache-mc",
             "repo": "apalache",
-            "stars": 593
+            "stars": 593,
+            "topics": [
+              "apalache",
+              "model-checking",
+              "quint",
+              "smt",
+              "tla",
+              "tlaplus",
+              "verification"
+            ]
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -1267,12 +1837,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "e2e testing framework for the interchain",
+            "homepage": "https://interchaintest-docs.vercel.app",
             "id": 457886172,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-11T07:05:40Z",
+            "open_issues": 78,
             "owner": "strangelove-ventures",
             "repo": "interchaintest",
-            "stars": 197
+            "stars": 197,
+            "topics": [
+              "cosmos",
+              "go",
+              "ibc",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -1283,12 +1863,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tm-load-test tool - Tendermint load test application",
+            "homepage": null,
             "id": 179625025,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-15T11:42:50Z",
+            "open_issues": 10,
             "owner": "informalsystems",
             "repo": "tm-load-test",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -1299,12 +1884,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A query suite for common bug patterns in Cosmos SDK-based applications",
+            "homepage": null,
             "id": 423690259,
             "language": "CodeQL",
+            "license": "Apache-2.0",
             "last_commit": "2023-12-05T03:30:35Z",
+            "open_issues": 1,
             "owner": "crypto-com",
             "repo": "cosmos-sdk-codeql",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -1315,12 +1905,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Drop-in replacement for CometBFT in end-to-end tests",
+            "homepage": null,
             "id": 635730599,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-15T12:33:54Z",
+            "open_issues": 11,
             "owner": "informalsystems",
             "repo": "CometMock",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -1331,12 +1926,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 523797006,
             "language": "TLA",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-10T13:43:02Z",
+            "open_issues": 13,
             "owner": "informalsystems",
             "repo": "atomkraft-cosmos",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -1347,12 +1947,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iavl inspection tool implemented in python",
+            "homepage": null,
             "id": 564156528,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-04-25T08:47:57Z",
+            "open_issues": 5,
             "owner": "crypto-com",
             "repo": "python-iavl",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -1363,12 +1968,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cosmos load tester",
+            "homepage": null,
             "id": 572849642,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-18T21:23:59Z",
+            "open_issues": 3,
             "owner": "orijtech",
             "repo": "cosmosloadtester",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         }
@@ -1385,12 +1995,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The best development platform for building custom modular Cosmos-SDK blockchains",
+            "homepage": null,
             "id": 753257034,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-06T10:36:29Z",
+            "open_issues": 24,
             "owner": "rollchains",
             "repo": "spawn",
-            "stars": 112
+            "stars": 112,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -1401,12 +2016,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Minimal Cosmos SDK chain template",
+            "homepage": "https://go.cosmonity.xyz/chain-minimal",
             "id": 501284689,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-14T18:44:20Z",
+            "open_issues": 2,
             "owner": "julienrbrt",
             "repo": "chain-minimal",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "cosmos-sdk",
+              "cryptocurrency",
+              "go",
+              "golang",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         },
@@ -1417,12 +2043,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Cosmos SDK Module Template",
+            "homepage": "https://go.cosmonity.xyz/example",
             "id": 645741498,
             "language": "Go",
+            "license": null,
             "last_commit": "2025-06-14T18:51:01Z",
+            "open_issues": 0,
             "owner": "julienrbrt",
             "repo": "example",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "cosmos-sdk",
+              "example",
+              "template"
+            ]
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
         }
@@ -1441,12 +2076,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Framework for building performant, customizable blockchains with native interoperability",
+                "homepage": "https://cosmos.network/",
                 "id": 51193526,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T17:08:30Z",
+                "open_issues": 229,
                 "owner": "cosmos",
                 "repo": "cosmos-sdk",
-                "stars": 7051
+                "stars": 7051,
+                "topics": [
+                  "blockchain",
+                  "cometbft",
+                  "cosmos-sdk",
+                  "cryptocurrency",
+                  "go",
+                  "golang",
+                  "tendermint"
+                ]
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             },
@@ -1457,12 +2105,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tendermint KMS: Key Management System for Tendermint Validators",
+                "homepage": "https://tendermint.com/",
                 "id": 244005431,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-06T18:56:26Z",
+                "open_issues": 30,
                 "owner": "iqlusioninc",
                 "repo": "tmkms",
-                "stars": 367
+                "stars": 367,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             },
@@ -1473,12 +2126,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "⚛️❤️👁 Brought to you by the LensCrafters",
+                "homepage": null,
                 "id": 433691315,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2023-07-05T21:39:35Z",
+                "open_issues": 37,
                 "owner": "strangelove-ventures",
                 "repo": "lens",
-                "stars": 163
+                "stars": 163,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             },
@@ -1489,12 +2147,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A reproducible package set for Cosmos, IBC and CosmWasm",
+                "homepage": "https://flakehub.com/flake/informalsystems/cosmos.nix",
                 "id": 385931356,
                 "language": "Nix",
+                "license": "MIT",
                 "last_commit": "2025-08-29T10:03:49Z",
+                "open_issues": 13,
                 "owner": "informalsystems",
                 "repo": "cosmos.nix",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             },
@@ -1505,12 +2168,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Helps identify if an account exists on multiple cosmos chains with the same address",
+                "homepage": null,
                 "id": 501388503,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2022-06-09T18:10:47Z",
+                "open_issues": 0,
                 "owner": "blockpane",
                 "repo": "findaccount",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             },
@@ -1521,12 +2189,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Painless multisig for many keys across many cosmos-sdk chains",
+                "homepage": null,
                 "id": 432583851,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-08T13:50:47Z",
+                "open_issues": 19,
                 "owner": "informalsystems",
                 "repo": "multisig",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "cosmos",
+                  "cosmos-sdk",
+                  "cryptocurrency",
+                  "multisig"
+                ]
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             },
@@ -1537,12 +2215,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CLI tool for generating Cosmos vanity addresses",
+                "homepage": null,
                 "id": 230536036,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2023-06-18T15:03:50Z",
+                "open_issues": 3,
                 "owner": "hukkin",
                 "repo": "cosmosvanity",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "address",
+                  "bech32",
+                  "blockchain",
+                  "cli",
+                  "cosmos",
+                  "cryptocurrency"
+                ]
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             },
@@ -1553,12 +2243,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A suite of tools to airdrop under a variety of edge cases for the Cosmos Interchain",
+                "homepage": null,
                 "id": 579202077,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-04-08T07:45:42Z",
+                "open_issues": 9,
                 "owner": "reecepbcups",
                 "repo": "airdrop-tools",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             },
@@ -1569,12 +2264,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python module for tinkering with Cosmos Network Genesis files",
+                "homepage": null,
                 "id": 455621874,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-12T19:29:31Z",
+                "open_issues": 2,
                 "owner": "hyphacoop",
                 "repo": "cosmos-genesis-tinkerer",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             }
@@ -1592,12 +2292,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Auto-compounder script for Cosmos Validators using REStake",
+                "homepage": "https://restake.app",
                 "id": 464294313,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-09-09T11:37:49Z",
+                "open_issues": 31,
                 "owner": "eco-stake",
                 "repo": "restake",
-                "stars": 372
+                "stars": 372,
+                "topics": [
+                  "authz",
+                  "autocompound",
+                  "cosmos-sdk",
+                  "nodejs",
+                  "restake",
+                  "tendermint",
+                  "validators"
+                ]
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             },
@@ -1608,12 +2321,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://go.skip.build",
                 "id": 639470025,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T04:50:46Z",
+                "open_issues": 2,
                 "owner": "skip-mev",
                 "repo": "skip-go-app",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             },
@@ -1624,12 +2342,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-chain faucet server for cosmos based blockchain.",
+                "homepage": null,
                 "id": 547186345,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2023-03-25T04:29:13Z",
+                "open_issues": 1,
                 "owner": "scalalang2",
                 "repo": "cosmfaucet",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             },
@@ -1640,12 +2363,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 522528169,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-12T16:22:06Z",
+                "open_issues": 5,
                 "owner": "shifty11",
                 "repo": "cosmos-notifier",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             }
@@ -1663,12 +2391,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool to notify you if you miss a proposal vote on any cosmos-sdk chain",
+                "homepage": null,
                 "id": 498516365,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2025-01-25T12:36:34Z",
+                "open_issues": 0,
                 "owner": "QuokkaStake",
                 "repo": "cosmos-proposals-checker",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             },
@@ -1679,12 +2412,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Track any transactions you need on multiple Cosmos chains",
+                "homepage": null,
                 "id": 583128333,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2025-01-06T02:47:46Z",
+                "open_issues": 1,
                 "owner": "QuokkaStake",
                 "repo": "cosmos-transactions-bot",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             },
@@ -1695,12 +2433,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Query notifications for balances on wallets with threasholds",
+                "homepage": null,
                 "id": 484057975,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-11-17T05:18:33Z",
+                "open_issues": 0,
                 "owner": "reecepbcups",
                 "repo": "cosmos-balance-bot",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             },
@@ -1711,12 +2454,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤖 Discord bot used @okp4 to bridge the Dataverse!",
+                "homepage": null,
                 "id": 517682866,
                 "language": "Rust",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-04-22T23:23:21Z",
+                "open_issues": 19,
                 "owner": "okp4",
                 "repo": "discord-bot",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "blockchain",
+                  "cosmos-sdk",
+                  "cryptocurrency",
+                  "discord-bot"
+                ]
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             },
@@ -1727,12 +2480,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A discord faucet for cosmos sdk based projects that is fully configurable for any chain.",
+                "homepage": null,
                 "id": 564661612,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-05-15T13:05:30Z",
+                "open_issues": 1,
                 "owner": "0x4139",
                 "repo": "cosmos-discord-faucet",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             },
@@ -1743,12 +2501,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Requested by: Oni Validator. Returns delegation stats of validated chains via webook",
+                "homepage": null,
                 "id": 524773257,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-06-22T21:16:06Z",
+                "open_issues": 2,
                 "owner": "reecepbcups",
                 "repo": "validator-stats-notifs",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             },
@@ -1759,12 +2522,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A stashh bot to keep up with Racoon supply NFTs collction",
+                "homepage": null,
                 "id": 531936372,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-08-28T01:14:55Z",
+                "open_issues": 1,
                 "owner": "reecepbcups",
                 "repo": "stashh-bot",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             }
@@ -1788,12 +2556,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cosmos Operator is a kubernetes operator for managing cosmos nodes",
+                "homepage": null,
                 "id": 517759312,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-11T13:09:19Z",
+                "open_issues": 53,
                 "owner": "strangelove-ventures",
                 "repo": "cosmos-operator",
-                "stars": 101
+                "stars": 101,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             },
@@ -1804,12 +2577,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Caches Cosmos RPC/API calls for configurable periods of time",
+                "homepage": null,
                 "id": 590915303,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-11-22T03:11:53Z",
+                "open_issues": 10,
                 "owner": "reecepbcups",
                 "repo": "cosmos-cache",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "blockchain",
+                  "caching",
+                  "cosmos",
+                  "cosmos-sdk"
+                ]
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             },
@@ -1820,12 +2603,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate keys+wallet addresses from mnemonic, accepts arbitrary HDpath",
+                "homepage": "https://wallet-generator-beta.vercel.app",
                 "id": 871804283,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-25T03:07:16Z",
+                "open_issues": 0,
                 "owner": "Cordtus",
                 "repo": "wallet_generator",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             }
@@ -1849,12 +2637,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Guidelines and training material to write secure smart contracts",
+                "homepage": "https://secure-contracts.com/",
                 "id": 233102473,
                 "language": "Solidity",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-04-13T21:32:17Z",
+                "open_issues": 58,
                 "owner": "crytic",
                 "repo": "building-secure-contracts",
-                "stars": 2482
+                "stars": 2482,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
             }
@@ -1868,15 +2661,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:24:33.051Z",
+    "last_updated": "2026-08-29T04:39:43.214Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Collection of Cosmos related resources",
+      "homepage": null,
       "id": 179537864,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-04-13T09:03:12Z",
+      "open_issues": 10,
       "owner": "cosmos",
       "repo": "awesome-cosmos",
-      "stars": 601
+      "stars": 601,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "blockchain",
+        "cosmos",
+        "cosmos-sdk"
+      ]
     },
     "original_repository_sha": "ec1d8616aa879ed04204cb07ea4ea98ac42f356f",
     "enhanced_repository": "enhansome/enhansome-cosmos",
