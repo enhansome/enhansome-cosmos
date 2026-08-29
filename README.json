@@ -16,7 +16,8 @@
             "owner": "cosmos",
             "repo": "gaia",
             "stars": 573
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 51193526,
             "language": "Go",
-            "last_commit": "2026-08-28T02:47:44Z",
+            "last_commit": "2026-08-28T17:08:30Z",
             "owner": "cosmos",
             "repo": "cosmos-sdk",
-            "stars": 7050
-          }
+            "stars": 7051
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-08-25T09:58:56Z",
             "owner": "CosmWasm",
             "repo": "cosmwasm",
-            "stars": 1145
-          }
+            "stars": 1144
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -57,11 +60,12 @@
             "archived": false,
             "id": 581314918,
             "language": "Go",
-            "last_commit": "2026-08-28T01:14:08Z",
+            "last_commit": "2026-08-28T16:43:43Z",
             "owner": "cometbft",
             "repo": "cometbft",
             "stars": 915
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "cosmos",
             "repo": "cosmjs",
             "stars": 699
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -87,11 +92,12 @@
             "archived": false,
             "id": 337764594,
             "language": "Go",
-            "last_commit": "2026-08-27T19:47:37Z",
+            "last_commit": "2026-08-28T13:35:03Z",
             "owner": "cosmos",
             "repo": "ibc-go",
-            "stars": 645
-          }
+            "stars": 644
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "cosmos",
             "repo": "iavl",
             "stars": 446
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "cosmos",
             "repo": "ics23",
             "stars": 129
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         }
       ],
       "title": "Core Components"
@@ -143,8 +151,9 @@
                 "last_commit": "2026-08-28T02:42:08Z",
                 "owner": "ignite",
                 "repo": "cli",
-                "stars": 1350
-              }
+                "stars": 1351
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             }
           ],
           "description": null,
@@ -166,7 +175,8 @@
                 "owner": "cosmos",
                 "repo": "cosmjs",
                 "stars": 699
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             },
             {
               "node_type": "item",
@@ -181,7 +191,8 @@
                 "owner": "hyperweb-io",
                 "repo": "cosmos-kit",
                 "stars": 201
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             },
             {
               "node_type": "item",
@@ -196,7 +207,8 @@
                 "owner": "hyperweb-io",
                 "repo": "create-cosmos-app",
                 "stars": 166
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             },
             {
               "node_type": "item",
@@ -211,7 +223,8 @@
                 "owner": "hyperweb-io",
                 "repo": "telescope",
                 "stars": 154
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             },
             {
               "node_type": "item",
@@ -226,7 +239,8 @@
                 "owner": "graz-sh",
                 "repo": "graz",
                 "stars": 124
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             },
             {
               "node_type": "item",
@@ -237,11 +251,12 @@
                 "archived": false,
                 "id": 512348794,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T02:44:59Z",
+                "last_commit": "2026-08-29T02:22:26Z",
                 "owner": "hyperweb-io",
                 "repo": "chain-registry",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             },
             {
               "node_type": "item",
@@ -256,7 +271,8 @@
                 "owner": "chainapsis",
                 "repo": "cosmosjs",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             },
             {
               "node_type": "item",
@@ -271,7 +287,8 @@
                 "owner": "cosmos-client",
                 "repo": "cosmos-client-ts",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             },
             {
               "node_type": "item",
@@ -286,7 +303,8 @@
                 "owner": "nabla-studio",
                 "repo": "quirks",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             },
             {
               "node_type": "item",
@@ -301,7 +319,8 @@
                 "owner": "toschdev",
                 "repo": "cosmos-bip44",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             }
           ],
           "description": null,
@@ -323,7 +342,8 @@
                 "owner": "fetchai",
                 "repo": "cosmpy",
                 "stars": 149
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             },
             {
               "node_type": "item",
@@ -338,7 +358,8 @@
                 "owner": "ctrl-Felix",
                 "repo": "mospy",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             },
             {
               "node_type": "item",
@@ -353,7 +374,8 @@
                 "owner": "ctrl-Felix",
                 "repo": "cosmospy-protobuf",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             },
             {
               "node_type": "item",
@@ -368,7 +390,8 @@
                 "owner": "ChihuahuaChain",
                 "repo": "pyCosmicWrap",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             },
             {
               "node_type": "item",
@@ -383,7 +406,8 @@
                 "owner": "PundiAI",
                 "repo": "fx-py-sdk",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             }
           ],
           "description": null,
@@ -404,8 +428,9 @@
                 "last_commit": "2026-08-25T09:58:56Z",
                 "owner": "CosmWasm",
                 "repo": "cosmwasm",
-                "stars": 1145
-              }
+                "stars": 1144
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             },
             {
               "node_type": "item",
@@ -420,7 +445,8 @@
                 "owner": "iqlusioninc",
                 "repo": "crates",
                 "stars": 578
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             },
             {
               "node_type": "item",
@@ -435,7 +461,8 @@
                 "owner": "PeggyJV",
                 "repo": "ocular",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             }
           ],
           "description": null,
@@ -461,7 +488,8 @@
             "owner": "ping-pub",
             "repo": "explorer",
             "stars": 373
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -476,7 +504,8 @@
             "owner": "forbole",
             "repo": "big-dipper-2.0-cosmos",
             "stars": 150
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "children": [
@@ -493,7 +522,8 @@
                 "owner": "cosmos",
                 "repo": "gex",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             },
             {
               "node_type": "item",
@@ -508,7 +538,8 @@
                 "owner": "blockpane",
                 "repo": "pvtop",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             },
             {
               "node_type": "item",
@@ -523,7 +554,8 @@
                 "owner": "QuokkaStake",
                 "repo": "tmtop",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             },
             {
               "node_type": "item",
@@ -538,7 +570,8 @@
                 "owner": "gsk967",
                 "repo": "cshtop",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             }
           ],
           "description": "Explore Cosmos SDK blockchains via a terminal.",
@@ -560,11 +593,12 @@
             "archived": false,
             "id": 370830535,
             "language": "Python",
-            "last_commit": "2026-08-27T11:58:10Z",
+            "last_commit": "2026-08-28T12:50:36Z",
             "owner": "cosmos",
             "repo": "chain-registry",
             "stars": 571
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -579,7 +613,8 @@
             "owner": "eco-stake",
             "repo": "cosmos-directory",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -590,11 +625,12 @@
             "archived": false,
             "id": 512348794,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T02:44:59Z",
+            "last_commit": "2026-08-29T02:22:26Z",
             "owner": "hyperweb-io",
             "repo": "chain-registry",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         }
       ],
       "title": "Chain Registry"
@@ -615,7 +651,8 @@
             "owner": "blockpane",
             "repo": "tenderduty",
             "stars": 170
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -630,7 +667,8 @@
             "owner": "SimplyStaking",
             "repo": "panic",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -645,7 +683,8 @@
             "owner": "cosmostation",
             "repo": "cvms",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -660,7 +699,8 @@
             "owner": "zhangyelong",
             "repo": "cosmos-dashboard",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -675,7 +715,8 @@
             "owner": "iqlusioninc",
             "repo": "cosmon",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -690,7 +731,8 @@
             "owner": "node-a-team",
             "repo": "Cosmos-IE",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -705,7 +747,8 @@
             "owner": "QuokkaStake",
             "repo": "cosmos-proposals-checker",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -720,7 +763,8 @@
             "owner": "QuokkaStake",
             "repo": "cosmos-validators-exporter",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -735,7 +779,8 @@
             "owner": "QuokkaStake",
             "repo": "cosmos-transactions-bot",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -750,7 +795,8 @@
             "owner": "QuokkaStake",
             "repo": "cosmos-node-exporter",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -765,7 +811,8 @@
             "owner": "QuokkaStake",
             "repo": "missed-blocks-checker",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -780,7 +827,8 @@
             "owner": "informalsystems",
             "repo": "chainpulse",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -795,7 +843,8 @@
             "owner": "QuokkaStake",
             "repo": "cosmos-wallets-exporter",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -810,7 +859,8 @@
             "owner": "ChihuahuaChain",
             "repo": "UpgradesWatchdog",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         }
       ],
       "title": "Monitoring"
@@ -831,7 +881,8 @@
             "owner": "forbole",
             "repo": "callisto",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -846,7 +897,8 @@
             "owner": "bryanlabs",
             "repo": "cosmos-indexer-sdk",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -861,7 +913,8 @@
             "owner": "cosmscan",
             "repo": "cosmscan-go",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -876,7 +929,8 @@
             "owner": "reecepbcups",
             "repo": "interchain-indexer",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         }
       ],
       "title": "Indexers"
@@ -893,11 +947,12 @@
             "archived": false,
             "id": 51193526,
             "language": "Go",
-            "last_commit": "2026-08-28T02:47:44Z",
+            "last_commit": "2026-08-28T17:08:30Z",
             "owner": "cosmos",
             "repo": "cosmos-sdk",
-            "stars": 7050
-          }
+            "stars": 7051
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -912,7 +967,8 @@
             "owner": "cosmos",
             "repo": "cosmos-rust",
             "stars": 346
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -927,7 +983,8 @@
             "owner": "turbofish-org",
             "repo": "orga",
             "stars": 174
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -942,7 +999,8 @@
             "owner": "devashishdxt",
             "repo": "abci-rs",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         }
       ],
       "title": "Frameworks"
@@ -963,7 +1021,8 @@
             "owner": "evmos",
             "repo": "ethermint",
             "stars": 1804
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -977,8 +1036,9 @@
             "last_commit": "2026-08-25T09:58:56Z",
             "owner": "CosmWasm",
             "repo": "cosmwasm",
-            "stars": 1145
-          }
+            "stars": 1144
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -993,7 +1053,8 @@
             "owner": "berachain",
             "repo": "polaris",
             "stars": 1071
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -1004,11 +1065,12 @@
             "archived": false,
             "id": 219012610,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T02:47:59Z",
+            "last_commit": "2026-08-28T22:01:14Z",
             "owner": "Agoric",
             "repo": "agoric-sdk",
             "stars": 357
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         }
       ],
       "title": "Virtual Machines"
@@ -1025,11 +1087,12 @@
             "archived": false,
             "id": 169809972,
             "language": "Go",
-            "last_commit": "2026-08-27T00:54:13Z",
+            "last_commit": "2026-08-28T21:51:35Z",
             "owner": "cosmos",
             "repo": "ibc",
             "stars": 1017
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -1040,11 +1103,12 @@
             "archived": false,
             "id": 337764594,
             "language": "Go",
-            "last_commit": "2026-08-27T19:47:37Z",
+            "last_commit": "2026-08-28T13:35:03Z",
             "owner": "cosmos",
             "repo": "ibc-go",
-            "stars": 645
-          }
+            "stars": 644
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -1059,7 +1123,8 @@
             "owner": "informalsystems",
             "repo": "hermes",
             "stars": 505
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -1074,7 +1139,8 @@
             "owner": "cosmos",
             "repo": "relayer",
             "stars": 413
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -1089,7 +1155,8 @@
             "owner": "informalsystems",
             "repo": "ibc-rs",
             "stars": 224
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -1104,7 +1171,8 @@
             "owner": "strangelove-ventures",
             "repo": "interchaintest",
             "stars": 197
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -1119,7 +1187,8 @@
             "owner": "confio",
             "repo": "ts-relayer",
             "stars": 112
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -1134,7 +1203,8 @@
             "owner": "reecepbcups",
             "repo": "local-interchain",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -1149,7 +1219,8 @@
             "owner": "Cordtus",
             "repo": "ibc-escrow",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         }
       ],
       "title": "IBC"
@@ -1169,8 +1240,9 @@
             "last_commit": "2026-08-20T13:55:29Z",
             "owner": "quint-co",
             "repo": "quint",
-            "stars": 1637
-          }
+            "stars": 1641
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -1181,11 +1253,12 @@
             "archived": false,
             "id": 38512019,
             "language": "Scala",
-            "last_commit": "2026-08-27T14:16:17Z",
+            "last_commit": "2026-08-28T14:06:50Z",
             "owner": "apalache-mc",
             "repo": "apalache",
-            "stars": 592
-          }
+            "stars": 593
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -1200,7 +1273,8 @@
             "owner": "strangelove-ventures",
             "repo": "interchaintest",
             "stars": 197
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -1215,7 +1289,8 @@
             "owner": "informalsystems",
             "repo": "tm-load-test",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -1230,7 +1305,8 @@
             "owner": "crypto-com",
             "repo": "cosmos-sdk-codeql",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -1245,7 +1321,8 @@
             "owner": "informalsystems",
             "repo": "CometMock",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -1260,7 +1337,8 @@
             "owner": "informalsystems",
             "repo": "atomkraft-cosmos",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -1275,7 +1353,8 @@
             "owner": "crypto-com",
             "repo": "python-iavl",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -1290,7 +1369,8 @@
             "owner": "orijtech",
             "repo": "cosmosloadtester",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         }
       ],
       "title": "Testing"
@@ -1311,7 +1391,8 @@
             "owner": "rollchains",
             "repo": "spawn",
             "stars": 112
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -1326,7 +1407,8 @@
             "owner": "julienrbrt",
             "repo": "chain-minimal",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         },
         {
           "node_type": "item",
@@ -1341,7 +1423,8 @@
             "owner": "julienrbrt",
             "repo": "example",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-29T02:24:33.051Z"
         }
       ],
       "title": "Templates"
@@ -1360,11 +1443,12 @@
                 "archived": false,
                 "id": 51193526,
                 "language": "Go",
-                "last_commit": "2026-08-28T02:47:44Z",
+                "last_commit": "2026-08-28T17:08:30Z",
                 "owner": "cosmos",
                 "repo": "cosmos-sdk",
-                "stars": 7050
-              }
+                "stars": 7051
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             },
             {
               "node_type": "item",
@@ -1379,7 +1463,8 @@
                 "owner": "iqlusioninc",
                 "repo": "tmkms",
                 "stars": 367
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             },
             {
               "node_type": "item",
@@ -1394,7 +1479,8 @@
                 "owner": "strangelove-ventures",
                 "repo": "lens",
                 "stars": 163
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             },
             {
               "node_type": "item",
@@ -1409,7 +1495,8 @@
                 "owner": "informalsystems",
                 "repo": "cosmos.nix",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             },
             {
               "node_type": "item",
@@ -1424,7 +1511,8 @@
                 "owner": "blockpane",
                 "repo": "findaccount",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             },
             {
               "node_type": "item",
@@ -1439,7 +1527,8 @@
                 "owner": "informalsystems",
                 "repo": "multisig",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             },
             {
               "node_type": "item",
@@ -1454,7 +1543,8 @@
                 "owner": "hukkin",
                 "repo": "cosmosvanity",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             },
             {
               "node_type": "item",
@@ -1469,7 +1559,8 @@
                 "owner": "reecepbcups",
                 "repo": "airdrop-tools",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             },
             {
               "node_type": "item",
@@ -1484,7 +1575,8 @@
                 "owner": "hyphacoop",
                 "repo": "cosmos-genesis-tinkerer",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             }
           ],
           "description": null,
@@ -1506,7 +1598,8 @@
                 "owner": "eco-stake",
                 "repo": "restake",
                 "stars": 372
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             },
             {
               "node_type": "item",
@@ -1517,11 +1610,12 @@
                 "archived": false,
                 "id": 639470025,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:20:31Z",
+                "last_commit": "2026-08-28T04:50:46Z",
                 "owner": "skip-mev",
                 "repo": "skip-go-app",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             },
             {
               "node_type": "item",
@@ -1536,7 +1630,8 @@
                 "owner": "scalalang2",
                 "repo": "cosmfaucet",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             },
             {
               "node_type": "item",
@@ -1551,7 +1646,8 @@
                 "owner": "shifty11",
                 "repo": "cosmos-notifier",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             }
           ],
           "description": null,
@@ -1573,7 +1669,8 @@
                 "owner": "QuokkaStake",
                 "repo": "cosmos-proposals-checker",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             },
             {
               "node_type": "item",
@@ -1588,7 +1685,8 @@
                 "owner": "QuokkaStake",
                 "repo": "cosmos-transactions-bot",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             },
             {
               "node_type": "item",
@@ -1603,7 +1701,8 @@
                 "owner": "reecepbcups",
                 "repo": "cosmos-balance-bot",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             },
             {
               "node_type": "item",
@@ -1618,7 +1717,8 @@
                 "owner": "okp4",
                 "repo": "discord-bot",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             },
             {
               "node_type": "item",
@@ -1633,7 +1733,8 @@
                 "owner": "0x4139",
                 "repo": "cosmos-discord-faucet",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             },
             {
               "node_type": "item",
@@ -1648,7 +1749,8 @@
                 "owner": "reecepbcups",
                 "repo": "validator-stats-notifs",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             },
             {
               "node_type": "item",
@@ -1663,7 +1765,8 @@
                 "owner": "reecepbcups",
                 "repo": "stashh-bot",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             }
           ],
           "description": null,
@@ -1691,7 +1794,8 @@
                 "owner": "strangelove-ventures",
                 "repo": "cosmos-operator",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             },
             {
               "node_type": "item",
@@ -1706,7 +1810,8 @@
                 "owner": "reecepbcups",
                 "repo": "cosmos-cache",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             },
             {
               "node_type": "item",
@@ -1721,7 +1826,8 @@
                 "owner": "Cordtus",
                 "repo": "wallet_generator",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             }
           ],
           "description": null,
@@ -1749,7 +1855,8 @@
                 "owner": "crytic",
                 "repo": "building-secure-contracts",
                 "stars": 2482
-              }
+              },
+              "first_seen": "2026-08-29T02:24:33.051Z"
             }
           ],
           "description": null,
@@ -1761,7 +1868,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T03:39:27.367Z",
+    "last_updated": "2026-08-29T02:24:33.051Z",
     "original_repository_info": {
       "archived": false,
       "id": 179537864,
@@ -1769,7 +1876,7 @@
       "last_commit": "2026-04-13T09:03:12Z",
       "owner": "cosmos",
       "repo": "awesome-cosmos",
-      "stars": 600
+      "stars": 601
     },
     "original_repository_sha": "ec1d8616aa879ed04204cb07ea4ea98ac42f356f",
     "enhanced_repository": "enhansome/enhansome-cosmos",
