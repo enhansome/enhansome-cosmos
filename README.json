@@ -48,7 +48,7 @@
             "open_issues": 230,
             "owner": "cosmos",
             "repo": "cosmos-sdk",
-            "stars": 7052,
+            "stars": 7053,
             "topics": [
               "blockchain",
               "cometbft",
@@ -74,7 +74,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-08-25T09:58:56Z",
-            "open_issues": 42,
+            "open_issues": 43,
             "owner": "CosmWasm",
             "repo": "cosmwasm",
             "stars": 1144,
@@ -379,7 +379,7 @@
                 "id": 512348794,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-29T02:22:26Z",
+                "last_commit": "2026-08-30T01:30:34Z",
                 "open_issues": 20,
                 "owner": "hyperweb-io",
                 "repo": "chain-registry",
@@ -627,7 +627,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-25T09:58:56Z",
-                "open_issues": 42,
+                "open_issues": 43,
                 "owner": "CosmWasm",
                 "repo": "cosmwasm",
                 "stars": 1144,
@@ -869,11 +869,11 @@
             "id": 370830535,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-08-28T12:50:36Z",
-            "open_issues": 110,
+            "last_commit": "2026-08-30T18:41:14Z",
+            "open_issues": 109,
             "owner": "cosmos",
             "repo": "chain-registry",
-            "stars": 571,
+            "stars": 570,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
@@ -917,7 +917,7 @@
             "id": 512348794,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T02:22:26Z",
+            "last_commit": "2026-08-30T01:30:34Z",
             "open_issues": 20,
             "owner": "hyperweb-io",
             "repo": "chain-registry",
@@ -1358,7 +1358,7 @@
             "open_issues": 230,
             "owner": "cosmos",
             "repo": "cosmos-sdk",
-            "stars": 7052,
+            "stars": 7053,
             "topics": [
               "blockchain",
               "cometbft",
@@ -1481,7 +1481,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-08-25T09:58:56Z",
-            "open_issues": 42,
+            "open_issues": 43,
             "owner": "CosmWasm",
             "repo": "cosmwasm",
             "stars": 1144,
@@ -1787,7 +1787,7 @@
             "open_issues": 249,
             "owner": "quint-co",
             "repo": "quint",
-            "stars": 1644,
+            "stars": 1646,
             "topics": [
               "apalache",
               "formal-methods",
@@ -2085,7 +2085,7 @@
                 "open_issues": 230,
                 "owner": "cosmos",
                 "repo": "cosmos-sdk",
-                "stars": 7052,
+                "stars": 7053,
                 "topics": [
                   "blockchain",
                   "cometbft",
@@ -2646,7 +2646,7 @@
                 "open_issues": 58,
                 "owner": "crytic",
                 "repo": "building-secure-contracts",
-                "stars": 2482,
+                "stars": 2481,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
@@ -2661,7 +2661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T21:54:32.501Z",
+    "last_updated": "2026-08-30T22:00:15.071Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of Cosmos related resources",
