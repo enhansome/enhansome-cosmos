@@ -48,7 +48,7 @@
             "open_issues": 221,
             "owner": "cosmos",
             "repo": "cosmos-sdk",
-            "stars": 7058,
+            "stars": 7057,
             "topics": [
               "blockchain",
               "cometbft",
@@ -379,7 +379,7 @@
                 "id": 512348794,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-11T01:28:38Z",
+                "last_commit": "2026-09-12T02:24:39Z",
                 "open_issues": 20,
                 "owner": "hyperweb-io",
                 "repo": "chain-registry",
@@ -502,7 +502,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-04T13:15:01Z",
-                "open_issues": 44,
+                "open_issues": 47,
                 "owner": "fetchai",
                 "repo": "cosmpy",
                 "stars": 149,
@@ -870,7 +870,7 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-09-11T09:23:07Z",
-            "open_issues": 114,
+            "open_issues": 115,
             "owner": "cosmos",
             "repo": "chain-registry",
             "stars": 570,
@@ -917,7 +917,7 @@
             "id": 512348794,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T01:28:38Z",
+            "last_commit": "2026-09-12T02:24:39Z",
             "open_issues": 20,
             "owner": "hyperweb-io",
             "repo": "chain-registry",
@@ -1358,7 +1358,7 @@
             "open_issues": 221,
             "owner": "cosmos",
             "repo": "cosmos-sdk",
-            "stars": 7058,
+            "stars": 7057,
             "topics": [
               "blockchain",
               "cometbft",
@@ -1787,7 +1787,7 @@
             "open_issues": 253,
             "owner": "quint-co",
             "repo": "quint",
-            "stars": 1666,
+            "stars": 1668,
             "topics": [
               "apalache",
               "formal-methods",
@@ -2085,7 +2085,7 @@
                 "open_issues": 221,
                 "owner": "cosmos",
                 "repo": "cosmos-sdk",
-                "stars": 7058,
+                "stars": 7057,
                 "topics": [
                   "blockchain",
                   "cometbft",
@@ -2646,7 +2646,7 @@
                 "open_issues": 58,
                 "owner": "crytic",
                 "repo": "building-secure-contracts",
-                "stars": 2478,
+                "stars": 2479,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
@@ -2661,7 +2661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T21:51:55.934Z",
+    "last_updated": "2026-09-12T21:35:23.010Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of Cosmos related resources",
