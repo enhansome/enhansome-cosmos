@@ -15,7 +15,7 @@
             "id": 179141420,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T05:53:12Z",
+            "last_commit": "2026-10-03T11:41:19Z",
             "open_issues": 31,
             "owner": "cosmos",
             "repo": "gaia",
@@ -230,7 +230,7 @@
                 "open_issues": 0,
                 "owner": "ignite",
                 "repo": "cli",
-                "stars": 1353,
+                "stars": 1352,
                 "topics": [
                   "blockchain",
                   "cli",
@@ -870,7 +870,7 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-10-01T14:33:09Z",
-            "open_issues": 126,
+            "open_issues": 127,
             "owner": "cosmos",
             "repo": "chain-registry",
             "stars": 572,
@@ -1617,7 +1617,7 @@
             "open_issues": 220,
             "owner": "informalsystems",
             "repo": "hermes",
-            "stars": 505,
+            "stars": 506,
             "topics": [
               "blockchain",
               "cosmos",
@@ -1787,7 +1787,7 @@
             "open_issues": 250,
             "owner": "quint-co",
             "repo": "quint",
-            "stars": 1805,
+            "stars": 1807,
             "topics": [
               "apalache",
               "formal-methods",
@@ -1813,8 +1813,8 @@
             "id": 38512019,
             "language": "Scala",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T10:39:13Z",
-            "open_issues": 261,
+            "last_commit": "2026-10-03T09:34:58Z",
+            "open_issues": 260,
             "owner": "apalache-mc",
             "repo": "apalache",
             "stars": 606,
@@ -2646,7 +2646,7 @@
                 "open_issues": 60,
                 "owner": "crytic",
                 "repo": "building-secure-contracts",
-                "stars": 2484,
+                "stars": 2483,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
@@ -2661,7 +2661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:42:20.276Z",
+    "last_updated": "2026-10-03T22:22:33.961Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of Cosmos related resources",
