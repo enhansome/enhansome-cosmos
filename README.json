@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Cosmos Hub",
-          "description": null,
+          "description": "cosmos/gaia",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -35,7 +35,7 @@
         {
           "node_type": "item",
           "title": "Cosmos SDK",
-          "description": null,
+          "description": "cosmos/cosmos-sdk",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -45,7 +45,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T11:05:24Z",
-            "open_issues": 237,
+            "open_issues": 239,
             "owner": "cosmos",
             "repo": "cosmos-sdk",
             "stars": 7071,
@@ -64,7 +64,7 @@
         {
           "node_type": "item",
           "title": "CosmWasm",
-          "description": null,
+          "description": "CosmWasm/cosmwasm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -90,7 +90,7 @@
         {
           "node_type": "item",
           "title": "CometBFT",
-          "description": null,
+          "description": "cometbft/cometbft",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -119,7 +119,7 @@
         {
           "node_type": "item",
           "title": "CosmJS",
-          "description": null,
+          "description": "cosmos/cosmjs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -140,7 +140,7 @@
         {
           "node_type": "item",
           "title": "IBC Go",
-          "description": null,
+          "description": "cosmos/ibc-go",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -163,7 +163,7 @@
         {
           "node_type": "item",
           "title": "IAVL",
-          "description": null,
+          "description": "cosmos/iavl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -188,7 +188,7 @@
         {
           "node_type": "item",
           "title": "ICS23",
-          "description": null,
+          "description": "cosmos/ics23",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -699,7 +699,7 @@
         {
           "node_type": "item",
           "title": "Ping.pub",
-          "description": "Source",
+          "description": "ping-pub/explorer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -722,7 +722,7 @@
         {
           "node_type": "item",
           "title": "Big Dipper",
-          "description": "Source",
+          "description": "forbole/big-dipper-2.0-cosmos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -860,7 +860,7 @@
         {
           "node_type": "item",
           "title": "cosmos/chain-registry",
-          "description": null,
+          "description": "cosmos/chain-registry",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -881,7 +881,7 @@
         {
           "node_type": "item",
           "title": "Cosmos directory",
-          "description": "Source",
+          "description": "eco-stake/cosmos-directory",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1355,7 +1355,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T11:05:24Z",
-            "open_issues": 237,
+            "open_issues": 239,
             "owner": "cosmos",
             "repo": "cosmos-sdk",
             "stars": 7071,
@@ -1537,8 +1537,8 @@
             "id": 219012610,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T13:19:12Z",
-            "open_issues": 1803,
+            "last_commit": "2026-10-03T00:27:51Z",
+            "open_issues": 1802,
             "owner": "Agoric",
             "repo": "agoric-sdk",
             "stars": 359,
@@ -2082,7 +2082,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T11:05:24Z",
-                "open_issues": 237,
+                "open_issues": 239,
                 "owner": "cosmos",
                 "repo": "cosmos-sdk",
                 "stars": 7071,
@@ -2633,7 +2633,7 @@
             {
               "node_type": "item",
               "title": "(Not So) Smart Cosmos, examples of common Cosmos app vulnerabilities",
-              "description": null,
+              "description": "crytic/building-secure-contracts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2661,7 +2661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:11:17.085Z",
+    "last_updated": "2026-10-03T04:42:20.276Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of Cosmos related resources",
