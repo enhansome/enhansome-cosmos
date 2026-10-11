@@ -48,7 +48,7 @@
             "open_issues": 243,
             "owner": "cosmos",
             "repo": "cosmos-sdk",
-            "stars": 7074,
+            "stars": 7075,
             "topics": [
               "blockchain",
               "cometbft",
@@ -100,7 +100,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-05T04:35:38Z",
-            "open_issues": 304,
+            "open_issues": 307,
             "owner": "cometbft",
             "repo": "cometbft",
             "stars": 924,
@@ -652,7 +652,7 @@
                 "id": 126305094,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T21:16:20Z",
+                "last_commit": "2026-10-11T20:15:32Z",
                 "open_issues": 49,
                 "owner": "iqlusioninc",
                 "repo": "crates",
@@ -870,7 +870,7 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-10-09T13:09:08Z",
-            "open_issues": 129,
+            "open_issues": 128,
             "owner": "cosmos",
             "repo": "chain-registry",
             "stars": 573,
@@ -1337,7 +1337,7 @@
             "open_issues": 243,
             "owner": "cosmos",
             "repo": "cosmos-sdk",
-            "stars": 7074,
+            "stars": 7075,
             "topics": [
               "blockchain",
               "cometbft",
@@ -1543,7 +1543,7 @@
             "id": 169809972,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T15:23:43Z",
+            "last_commit": "2026-10-11T18:17:25Z",
             "open_issues": 90,
             "owner": "cosmos",
             "repo": "ibc",
@@ -1766,7 +1766,7 @@
             "open_issues": 252,
             "owner": "quint-co",
             "repo": "quint",
-            "stars": 1826,
+            "stars": 1825,
             "topics": [
               "apalache",
               "formal-methods",
@@ -2065,7 +2065,7 @@
                 "open_issues": 243,
                 "owner": "cosmos",
                 "repo": "cosmos-sdk",
-                "stars": 7074,
+                "stars": 7075,
                 "topics": [
                   "blockchain",
                   "cometbft",
@@ -2641,7 +2641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T22:52:27.095Z",
+    "last_updated": "2026-10-11T23:05:59.242Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of Cosmos related resources",
