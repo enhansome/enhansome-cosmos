@@ -15,8 +15,8 @@
             "id": 179141420,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T10:48:36Z",
-            "open_issues": 37,
+            "last_commit": "2026-10-17T09:33:23Z",
+            "open_issues": 39,
             "owner": "cosmos",
             "repo": "gaia",
             "stars": 575,
@@ -48,7 +48,7 @@
             "open_issues": 238,
             "owner": "cosmos",
             "repo": "cosmos-sdk",
-            "stars": 7078,
+            "stars": 7076,
             "topics": [
               "blockchain",
               "cometbft",
@@ -103,7 +103,7 @@
             "open_issues": 302,
             "owner": "cometbft",
             "repo": "cometbft",
-            "stars": 926,
+            "stars": 927,
             "topics": [
               "bft",
               "blockchain",
@@ -652,8 +652,8 @@
                 "id": 126305094,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T15:01:12Z",
-                "open_issues": 49,
+                "last_commit": "2026-10-17T13:29:27Z",
+                "open_issues": 48,
                 "owner": "iqlusioninc",
                 "repo": "crates",
                 "stars": 581,
@@ -1337,7 +1337,7 @@
             "open_issues": 238,
             "owner": "cosmos",
             "repo": "cosmos-sdk",
-            "stars": 7078,
+            "stars": 7076,
             "topics": [
               "blockchain",
               "cometbft",
@@ -1543,8 +1543,8 @@
             "id": 169809972,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T17:31:51Z",
-            "open_issues": 98,
+            "last_commit": "2026-10-17T01:04:05Z",
+            "open_issues": 99,
             "owner": "cosmos",
             "repo": "ibc",
             "stars": 1021,
@@ -1766,7 +1766,7 @@
             "open_issues": 253,
             "owner": "quint-co",
             "repo": "quint",
-            "stars": 1839,
+            "stars": 1842,
             "topics": [
               "apalache",
               "formal-methods",
@@ -1797,7 +1797,7 @@
             "open_issues": 261,
             "owner": "apalache-mc",
             "repo": "apalache",
-            "stars": 611,
+            "stars": 612,
             "topics": [
               "apalache",
               "model-checking",
@@ -2065,7 +2065,7 @@
                 "open_issues": 238,
                 "owner": "cosmos",
                 "repo": "cosmos-sdk",
-                "stars": 7078,
+                "stars": 7076,
                 "topics": [
                   "blockchain",
                   "cometbft",
@@ -2641,7 +2641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T22:10:23.962Z",
+    "last_updated": "2026-10-17T21:39:53.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of Cosmos related resources",
