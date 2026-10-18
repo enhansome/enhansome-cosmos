@@ -45,10 +45,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-16T09:35:18Z",
-            "open_issues": 238,
+            "open_issues": 239,
             "owner": "cosmos",
             "repo": "cosmos-sdk",
-            "stars": 7076,
+            "stars": 7077,
             "topics": [
               "blockchain",
               "cometbft",
@@ -100,10 +100,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-13T14:42:32Z",
-            "open_issues": 302,
+            "open_issues": 304,
             "owner": "cometbft",
             "repo": "cometbft",
-            "stars": 927,
+            "stars": 928,
             "topics": [
               "bft",
               "blockchain",
@@ -870,7 +870,7 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-10-16T09:16:20Z",
-            "open_issues": 131,
+            "open_issues": 134,
             "owner": "cosmos",
             "repo": "chain-registry",
             "stars": 572,
@@ -1334,10 +1334,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-16T09:35:18Z",
-            "open_issues": 238,
+            "open_issues": 239,
             "owner": "cosmos",
             "repo": "cosmos-sdk",
-            "stars": 7076,
+            "stars": 7077,
             "topics": [
               "blockchain",
               "cometbft",
@@ -1797,7 +1797,7 @@
             "open_issues": 261,
             "owner": "apalache-mc",
             "repo": "apalache",
-            "stars": 612,
+            "stars": 613,
             "topics": [
               "apalache",
               "model-checking",
@@ -2062,10 +2062,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-16T09:35:18Z",
-                "open_issues": 238,
+                "open_issues": 239,
                 "owner": "cosmos",
                 "repo": "cosmos-sdk",
-                "stars": 7076,
+                "stars": 7077,
                 "topics": [
                   "blockchain",
                   "cometbft",
@@ -2641,7 +2641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T21:39:53.461Z",
+    "last_updated": "2026-10-18T21:45:28.890Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of Cosmos related resources",
