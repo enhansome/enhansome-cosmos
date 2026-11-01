@@ -54,8 +54,8 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 
 * [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/) ⭐ 7,081 | 🐛 240 | 🌐 Go | 📅 2026-10-29
 * [CosmWasm](https://github.com/CosmWasm/cosmwasm) ⭐ 1,142 | 🐛 44 | 🌐 Rust | 📅 2026-10-09
-* [CometBFT](https://github.com/cometbft/cometbft) ⭐ 931 | 🐛 317 | 🌐 Go | 📅 2026-10-26
-* [CosmJS](https://github.com/cosmos/cosmjs) ⭐ 699 | 🐛 193 | 🌐 TypeScript | 📅 2026-05-04
+* [CometBFT](https://github.com/cometbft/cometbft) ⭐ 933 | 🐛 317 | 🌐 Go | 📅 2026-10-26
+* [CosmJS](https://github.com/cosmos/cosmjs) ⭐ 699 | 🐛 194 | 🌐 TypeScript | 📅 2026-05-04
 * [IBC Go](https://github.com/cosmos/ibc-go) ⭐ 647 | 🐛 68 | 🌐 Go | 📅 2026-10-30
 
 <!-- -->
@@ -83,10 +83,10 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 
 ### JavaScript
 
-* [cosmos/cosmjs](https://github.com/cosmos/cosmjs) ⭐ 699 | 🐛 193 | 🌐 TypeScript | 📅 2026-05-04 - The Cosmos JavaScript library.
+* [cosmos/cosmjs](https://github.com/cosmos/cosmjs) ⭐ 699 | 🐛 194 | 🌐 TypeScript | 📅 2026-05-04 - The Cosmos JavaScript library.
 * [cosmology-tech/cosmos-kit](https://github.com/cosmology-tech/cosmos-kit) ⭐ 200 | 🐛 45 | 🌐 TypeScript | 📅 2026-03-01 - A wallet connector for the Cosmos.
 * [cosmology-tech/create-cosmos-app](https://github.com/cosmology-tech/create-cosmos-app) ⭐ 166 | 🐛 40 | 🌐 TypeScript | 📅 2025-12-11 - A npm package to bootstrap a Cosmos Web UI.
-* [telescope](https://github.com/osmosis-labs/telescope) ⭐ 155 | 🐛 149 | 🌐 TypeScript | 📅 2026-10-31 - Typescript library generator built on top of CosmJS.
+* [telescope](https://github.com/osmosis-labs/telescope) ⭐ 155 | 🐛 150 | 🌐 TypeScript | 📅 2026-11-01 - Typescript library generator built on top of CosmJS.
 * [strangelove-ventures/graz](https://github.com/strangelove-ventures/graz) ⭐ 123 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-21 - Collection of React hooks to interact with wallets, signers, signing clients, etc.
 * [cosmology-tech/chain-registry](https://github.com/cosmology-tech/chain-registry) ⭐ 70 | 🐛 19 | 🌐 TypeScript | 📅 2026-10-26 - A npm package for the official Cosmos Chain Registry.
 * [chainapsis/cosmosjs](https://github.com/chainapsis/cosmosjs) ⚠️ Archived - Chainapsis Signing & API Library.
@@ -110,7 +110,7 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 
 ## Block Explorers
 
-* [Ping.pub](https://ping.pub) - [Source](https://github.com/ping-pub/explorer) ⭐ 374 | 🐛 44 | 🌐 Vue | 📅 2026-09-28
+* [Ping.pub](https://ping.pub) - [Source](https://github.com/ping-pub/explorer) ⭐ 374 | 🐛 45 | 🌐 Vue | 📅 2026-09-28
 * [Big Dipper](https://bigdipper.live) - [Source](https://github.com/forbole/big-dipper-2.0-cosmos) ⭐ 150 | 🐛 38 | 🌐 TypeScript | 📅 2024-11-25
 * [ATOMScan](https://atomscan.com)
 * [IOBScan](https://ibc.iobscan.io/)
@@ -139,7 +139,7 @@ Explore Cosmos SDK blockchains via a terminal.
 
 A registry containing standardized metadata from most Cosmos chains.
 
-* [cosmos/chain-registry](https://github.com/cosmos/chain-registry/) ⭐ 571 | 🐛 130 | 🌐 Python | 📅 2026-10-30
+* [cosmos/chain-registry](https://github.com/cosmos/chain-registry/) ⭐ 571 | 🐛 136 | 🌐 Python | 📅 2026-11-01
 * [Cosmos directory](https://cosmos.directory) - [Source](https://github.com/eco-stake/cosmos-directory) ⭐ 84 | 🐛 8 | 🌐 JavaScript | 📅 2026-10-31
 * [cosmology-tech/chain-registry](https://github.com/cosmology-tech/chain-registry) ⭐ 70 | 🐛 19 | 🌐 TypeScript | 📅 2026-10-26 - A npm package for the official Cosmos Chain Registry.
 
@@ -183,7 +183,7 @@ The best place to find an accurate list of the Cosmos SDK modules is the project
 ## Indexers
 
 * [BDJuno](https://github.com/forbole/bdjuno) ⭐ 93 | 🐛 44 | 🌐 Go | 📅 2024-11-25 - All the chains' data that are queried from the RPC and gRPC endpoints are stored inside a PostgreSQL database on top of which GraphQL APIs can then be created using Hasura.
-* [Cosmos Indexer](https://github.com/DefiantLabs/cosmos-indexer) ⭐ 36 | 🐛 11 | 🌐 Go | 📅 2026-10-23 - A generalized DB schema indexer with correlation and direct database indexing in Go.
+* [Cosmos Indexer](https://github.com/DefiantLabs/cosmos-indexer) ⭐ 36 | 🐛 12 | 🌐 Go | 📅 2026-11-01 - A generalized DB schema indexer with correlation and direct database indexing in Go.
 * [Cosmscan](https://github.com/cosmscan/cosmscan-go) ⚠️ Archived - An indexer engine for Cosmos chains.
 * [interchain-indexer](https://github.com/Reecepbcups/interchain-indexer) ⭐ 20 | 🐛 8 | 🌐 Python | 📅 2023-08-04 - A cosmos blockchain indexer in Python.
 
@@ -219,8 +219,8 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 
 ## Testing
 
-* [quint](https://github.com/informalsystems/quint) ⭐ 1,897 | 🐛 251 | 🌐 TypeScript | 📅 2026-10-31 - Executable specification language with delightful tooling.
-* [apalache](https://github.com/informalsystems/apalache) ⭐ 617 | 🐛 261 | 🌐 Scala | 📅 2026-10-12 - APALACHE: symbolic model checker for TLA+ and Quint.
+* [quint](https://github.com/informalsystems/quint) ⭐ 1,899 | 🐛 251 | 🌐 TypeScript | 📅 2026-10-31 - Executable specification language with delightful tooling.
+* [apalache](https://github.com/informalsystems/apalache) ⭐ 619 | 🐛 262 | 🌐 Scala | 📅 2026-10-12 - APALACHE: symbolic model checker for TLA+ and Quint.
 * [interchaintest](https://github.com/strangelove-ventures/interchaintest) ⭐ 197 | 🐛 79 | 🌐 Go | 📅 2026-02-11 - E2E testing framework for IBC Chains.
 * [tm-load-test](https://github.com/informalsystems/tm-load-test) ⭐ 47 | 🐛 10 | 🌐 Go | 📅 2024-11-15 - CometBFT load test application.
 * [cosmos-sdk-codeql](https://github.com/crypto-com/cosmos-sdk-codeql) ⭐ 31 | 🐛 1 | 🌐 CodeQL | 📅 2023-12-05 - CodeQL queries for common Cosmos SDK bugs.
@@ -300,7 +300,7 @@ As the ecosystem grows, so does the content. DYOR and follow the projects you fi
 
 ### Articles
 
-* [(Not So) Smart Cosmos, examples of common Cosmos app vulnerabilities](https://github.com/crytic/building-secure-contracts/tree/master/not-so-smart-contracts/cosmos) ⭐ 2,481 | 🐛 61 | 🌐 Solidity | 📅 2026-10-22
+* [(Not So) Smart Cosmos, examples of common Cosmos app vulnerabilities](https://github.com/crytic/building-secure-contracts/tree/master/not-so-smart-contracts/cosmos) ⭐ 2,482 | 🐛 61 | 🌐 Solidity | 📅 2026-10-22
 * [Cosmos Dev Series: Cosmos Blockchain Upgrade](https://zerofruit.medium.com/cosmos-dev-series-cosmos-sdk-based-blockchain-upgrade-b5e99181554c)
 * [Hardening guides](https://cyber.orijtech.com/scsec/cosmos-hardening)
 * [How to connect your frontend to Cosmos blockchain](https://dev.to/kikiding/how-to-connect-your-frontend-to-cosmos-blockchain-5fcn)
@@ -313,4 +313,4 @@ As the ecosystem grows, so does the content. DYOR and follow the projects you fi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
