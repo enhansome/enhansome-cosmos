@@ -15,11 +15,11 @@
             "id": 179141420,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T07:28:51Z",
-            "open_issues": 37,
+            "last_commit": "2026-11-10T16:35:58Z",
+            "open_issues": 38,
             "owner": "cosmos",
             "repo": "gaia",
-            "stars": 574,
+            "stars": 575,
             "topics": [
               "blockchain",
               "cosmos",
@@ -45,10 +45,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-11-09T01:14:56Z",
-            "open_issues": 244,
+            "open_issues": 243,
             "owner": "cosmos",
             "repo": "cosmos-sdk",
-            "stars": 7089,
+            "stars": 7091,
             "topics": [
               "blockchain",
               "cometbft",
@@ -77,7 +77,7 @@
             "open_issues": 44,
             "owner": "CosmWasm",
             "repo": "cosmwasm",
-            "stars": 1145,
+            "stars": 1146,
             "topics": [
               "cosmos-sdk",
               "rust",
@@ -100,7 +100,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-11-09T04:53:35Z",
-            "open_issues": 321,
+            "open_issues": 322,
             "owner": "cometbft",
             "repo": "cometbft",
             "stars": 936,
@@ -132,7 +132,7 @@
             "open_issues": 194,
             "owner": "cosmos",
             "repo": "cosmjs",
-            "stars": 699,
+            "stars": 700,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
@@ -149,11 +149,11 @@
             "id": 337764594,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T16:15:42Z",
-            "open_issues": 69,
+            "last_commit": "2026-11-10T17:08:45Z",
+            "open_issues": 76,
             "owner": "lfdt-ibc",
             "repo": "ibc-go",
-            "stars": 647,
+            "stars": 648,
             "topics": [
               "cosmos"
             ]
@@ -264,7 +264,7 @@
                 "open_issues": 194,
                 "owner": "cosmos",
                 "repo": "cosmjs",
-                "stars": 699,
+                "stars": 700,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
@@ -630,7 +630,7 @@
                 "open_issues": 44,
                 "owner": "CosmWasm",
                 "repo": "cosmwasm",
-                "stars": 1145,
+                "stars": 1146,
                 "topics": [
                   "cosmos-sdk",
                   "rust",
@@ -656,7 +656,7 @@
                 "open_issues": 51,
                 "owner": "iqlusioninc",
                 "repo": "crates",
-                "stars": 579,
+                "stars": 580,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
@@ -869,8 +869,8 @@
             "id": 370830535,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-11-09T06:43:31Z",
-            "open_issues": 154,
+            "last_commit": "2026-11-10T14:19:27Z",
+            "open_issues": 150,
             "owner": "cosmos",
             "repo": "chain-registry",
             "stars": 572,
@@ -1264,7 +1264,7 @@
             "id": 705357782,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T01:58:19Z",
+            "last_commit": "2026-11-10T02:58:47Z",
             "open_issues": 18,
             "owner": "bryanlabs",
             "repo": "cosmos-indexer-sdk",
@@ -1334,10 +1334,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-11-09T01:14:56Z",
-            "open_issues": 244,
+            "open_issues": 243,
             "owner": "cosmos",
             "repo": "cosmos-sdk",
-            "stars": 7089,
+            "stars": 7091,
             "topics": [
               "blockchain",
               "cometbft",
@@ -1366,7 +1366,7 @@
             "open_issues": 16,
             "owner": "cosmos",
             "repo": "cosmos-rust",
-            "stars": 346,
+            "stars": 348,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
@@ -1435,7 +1435,7 @@
             "open_issues": 33,
             "owner": "evmos",
             "repo": "ethermint",
-            "stars": 1800,
+            "stars": 1801,
             "topics": [
               "blockchain",
               "cosmos-sdk",
@@ -1463,7 +1463,7 @@
             "open_issues": 44,
             "owner": "CosmWasm",
             "repo": "cosmwasm",
-            "stars": 1145,
+            "stars": 1146,
             "topics": [
               "cosmos-sdk",
               "rust",
@@ -1516,11 +1516,11 @@
             "id": 219012610,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T02:13:33Z",
-            "open_issues": 1805,
+            "last_commit": "2026-11-11T00:10:25Z",
+            "open_issues": 1803,
             "owner": "Agoric",
             "repo": "agoric-sdk",
-            "stars": 358,
+            "stars": 359,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
@@ -1543,8 +1543,8 @@
             "id": 169809972,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T18:26:33Z",
-            "open_issues": 99,
+            "last_commit": "2026-11-10T16:45:46Z",
+            "open_issues": 111,
             "owner": "lfdt-ibc",
             "repo": "ibc",
             "stars": 1022,
@@ -1569,11 +1569,11 @@
             "id": 337764594,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T16:15:42Z",
-            "open_issues": 69,
+            "last_commit": "2026-11-10T17:08:45Z",
+            "open_issues": 76,
             "owner": "lfdt-ibc",
             "repo": "ibc-go",
-            "stars": 647,
+            "stars": 648,
             "topics": [
               "cosmos"
             ]
@@ -1596,7 +1596,7 @@
             "open_issues": 218,
             "owner": "informalsystems",
             "repo": "hermes",
-            "stars": 505,
+            "stars": 506,
             "topics": [
               "blockchain",
               "cosmos",
@@ -1763,10 +1763,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-11-03T20:21:16Z",
-            "open_issues": 256,
+            "open_issues": 258,
             "owner": "quint-co",
             "repo": "quint",
-            "stars": 2066,
+            "stars": 2073,
             "topics": [
               "apalache",
               "formal-methods",
@@ -1793,8 +1793,8 @@
             "id": 38512019,
             "language": "Scala",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T15:07:44Z",
-            "open_issues": 263,
+            "last_commit": "2026-11-10T09:53:13Z",
+            "open_issues": 262,
             "owner": "apalache-mc",
             "repo": "apalache",
             "stars": 624,
@@ -2062,10 +2062,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-09T01:14:56Z",
-                "open_issues": 244,
+                "open_issues": 243,
                 "owner": "cosmos",
                 "repo": "cosmos-sdk",
-                "stars": 7089,
+                "stars": 7091,
                 "topics": [
                   "blockchain",
                   "cometbft",
@@ -2091,7 +2091,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-24T17:59:15Z",
-                "open_issues": 35,
+                "open_issues": 36,
                 "owner": "iqlusioninc",
                 "repo": "tmkms",
                 "stars": 368,
@@ -2641,7 +2641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T02:21:27.757Z",
+    "last_updated": "2026-11-11T00:12:42.714Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of Cosmos related resources",
