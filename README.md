@@ -52,7 +52,7 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 
 <!-- -->
 
-* [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/) ⭐ 7,088 | 🐛 247 | 🌐 Go | 📅 2026-11-20
+* [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/) ⭐ 7,088 | 🐛 246 | 🌐 Go | 📅 2026-11-20
 * [CosmWasm](https://github.com/CosmWasm/cosmwasm) ⭐ 1,145 | 🐛 46 | 🌐 Rust | 📅 2026-11-13
 * [CometBFT](https://github.com/cometbft/cometbft) ⭐ 938 | 🐛 314 | 🌐 Go | 📅 2026-11-20
 * [CosmJS](https://github.com/cosmos/cosmjs) ⭐ 699 | 🐛 195 | 🌐 TypeScript | 📅 2026-05-04
@@ -60,7 +60,7 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 
 <!-- -->
 
-* [IAVL](https://github.com/cosmos/iavl) ⭐ 446 | 🐛 77 | 🌐 Go | 📅 2026-11-20
+* [IAVL](https://github.com/cosmos/iavl) ⭐ 446 | 🐛 76 | 🌐 Go | 📅 2026-11-20
 * [ICS23](https://github.com/cosmos/ics23) ⭐ 130 | 🐛 35 | 🌐 Rust | 📅 2026-11-19
 * [Protobuf](https://buf.build/cosmos)
 
@@ -139,7 +139,7 @@ Explore Cosmos SDK blockchains via a terminal.
 
 A registry containing standardized metadata from most Cosmos chains.
 
-* [cosmos/chain-registry](https://github.com/cosmos/chain-registry/) ⭐ 571 | 🐛 144 | 🌐 Python | 📅 2026-11-20
+* [cosmos/chain-registry](https://github.com/cosmos/chain-registry/) ⭐ 571 | 🐛 145 | 🌐 Python | 📅 2026-11-22
 * [Cosmos directory](https://cosmos.directory) - [Source](https://github.com/eco-stake/cosmos-directory) ⭐ 84 | 🐛 16 | 🌐 JavaScript | 📅 2026-11-16
 * [cosmology-tech/chain-registry](https://github.com/cosmology-tech/chain-registry) ⭐ 69 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-16 - A npm package for the official Cosmos Chain Registry.
 
@@ -183,13 +183,13 @@ The best place to find an accurate list of the Cosmos SDK modules is the project
 ## Indexers
 
 * [BDJuno](https://github.com/forbole/bdjuno) ⭐ 93 | 🐛 44 | 🌐 Go | 📅 2024-11-25 - All the chains' data that are queried from the RPC and gRPC endpoints are stored inside a PostgreSQL database on top of which GraphQL APIs can then be created using Hasura.
-* [Cosmos Indexer](https://github.com/DefiantLabs/cosmos-indexer) ⭐ 36 | 🐛 21 | 🌐 Go | 📅 2026-11-21 - A generalized DB schema indexer with correlation and direct database indexing in Go.
+* [Cosmos Indexer](https://github.com/DefiantLabs/cosmos-indexer) ⭐ 36 | 🐛 15 | 🌐 Go | 📅 2026-11-23 - A generalized DB schema indexer with correlation and direct database indexing in Go.
 * [Cosmscan](https://github.com/cosmscan/cosmscan-go) ⚠️ Archived - An indexer engine for Cosmos chains.
-* [interchain-indexer](https://github.com/Reecepbcups/interchain-indexer) ⭐ 20 | 🐛 8 | 🌐 Python | 📅 2023-08-04 - A cosmos blockchain indexer in Python.
+* [interchain-indexer](https://github.com/Reecepbcups/interchain-indexer) ⚠️ Archived - A cosmos blockchain indexer in Python.
 
 ## Frameworks
 
-* [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/) ⭐ 7,088 | 🐛 247 | 🌐 Go | 📅 2026-11-20 - A Framework for Building High Value Public Blockchains in Go.
+* [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/) ⭐ 7,088 | 🐛 246 | 🌐 Go | 📅 2026-11-20 - A Framework for Building High Value Public Blockchains in Go.
 * [CosmRS](https://github.com/cosmos/cosmos-rust/tree/main/cosmrs) ⭐ 347 | 🐛 16 | 🌐 Rust | 📅 2025-09-18 - Framework for building Cosmos blockchain applications in Rust.
 * [Orga](https://github.com/nomic-io/orga) ⭐ 174 | 🐛 20 | 🌐 Rust | 📅 2025-01-25 - ABCI framework for state machine transitions in Rust.
 * [ABCI-RS](https://github.com/devashishdxt/abci-rs) ⭐ 31 | 🐛 2 | 🌐 Rust | 📅 2023-03-07 - Rust crate for creating ABCI applications.
@@ -219,7 +219,7 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 
 ## Testing
 
-* [quint](https://github.com/informalsystems/quint) ⭐ 2,153 | 🐛 259 | 🌐 TypeScript | 📅 2026-11-21 - Executable specification language with delightful tooling.
+* [quint](https://github.com/informalsystems/quint) ⭐ 2,170 | 🐛 259 | 🌐 TypeScript | 📅 2026-11-22 - Executable specification language with delightful tooling.
 * [apalache](https://github.com/informalsystems/apalache) ⭐ 629 | 🐛 261 | 🌐 Scala | 📅 2026-11-18 - APALACHE: symbolic model checker for TLA+ and Quint.
 * [interchaintest](https://github.com/strangelove-ventures/interchaintest) ⭐ 197 | 🐛 79 | 🌐 Go | 📅 2026-02-11 - E2E testing framework for IBC Chains.
 * [tm-load-test](https://github.com/informalsystems/tm-load-test) ⭐ 47 | 🐛 10 | 🌐 Go | 📅 2024-11-15 - CometBFT load test application.
@@ -242,14 +242,14 @@ Templates to help you get started with building a Cosmos SDK blockchain.
 
 ### CLI
 
-* [cosmosvisor](https://github.com/cosmos/cosmos-sdk/tree/main/cosmovisor#readme) ⭐ 7,088 | 🐛 247 | 🌐 Go | 📅 2026-11-20 - Automates Cosmos SDK application binary upgrades.
+* [cosmosvisor](https://github.com/cosmos/cosmos-sdk/tree/main/cosmovisor#readme) ⭐ 7,088 | 🐛 246 | 🌐 Go | 📅 2026-11-20 - Automates Cosmos SDK application binary upgrades.
 * [tmkms](https://github.com/iqlusioninc/tmkms) ⭐ 366 | 🐛 45 | 🌐 Rust | 📅 2026-10-24 - Key Management System for Tendermint validators.
 * [lens](https://github.com/strangelove-ventures/lens) ⚠️ Archived - CLI tool to interact with any Cosmos chain supporting the core Cosmos-SDK modules.
 * [cosmos.nix](https://github.com/informalsystems/cosmos.nix) ⭐ 63 | 🐛 13 | 🌐 Nix | 📅 2025-08-29 - [Nix](https://nixos.org/) support for Cosmos and CosmWasm.
 * [findaccount](https://github.com/blockpane/findaccount) ⚠️ Archived - Helps identify if an account exists on multiple Cosmos chains with the same address.
 * [multisig](https://github.com/informalsystems/multisig) ⭐ 37 | 🐛 19 | 🌐 Go | 📅 2026-04-08 - CLI tool for managing multisig accounts on Cosmos SDK chains.
 * [cosmosvanity](https://github.com/hukkinj1/cosmosvanity) ⭐ 35 | 🐛 3 | 🌐 Go | 📅 2023-06-18 - CLI tool for generating Cosmos vanity addresses.
-* [airdrop-tools](https://github.com/Reecepbcups/airdrop-tools) ⭐ 20 | 🐛 9 | 🌐 Python | 📅 2024-04-08 - CLI scripts to help distribute a variety of tokens from multiple formats.
+* [airdrop-tools](https://github.com/Reecepbcups/airdrop-tools) ⚠️ Archived - CLI scripts to help distribute a variety of tokens from multiple formats.
 * [cosmos-genesis-tinkerer](https://github.com/hyphacoop/cosmos-genesis-tinkerer) ⚠️ Archived - CLI tool for modifying Cosmos genesis files.
 * [cosmology](https://github.com/cosmology-tech/cosmology) - CLI tool for making cryptocurrency trades, joining liquidity pools, and stake rewards on Osmosis.
 
@@ -264,11 +264,11 @@ Templates to help you get started with building a Cosmos SDK blockchain.
 
 * [cosmos-proposals-checker](https://github.com/QuokkaStake/cosmos-proposals-checker.git) ⭐ 18 | 🐛 0 | 🌐 Go | 📅 2025-01-25 - A bot to notify you if your wallets didn't vote on proposal on multiple Cosmos SDK chains.
 * [cosmos-transactions-bot](https://github.com/QuokkaStake/cosmos-transactions-bot.git) ⭐ 15 | 🐛 1 | 🌐 Go | 📅 2025-01-06 - Get notified about transactions matching the filters you want on multiple Cosmos SDK chains.
-* [cosmos-balance-bot](https://github.com/Reecepbcups/cosmos-balance-bot) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2022-11-17 - Get notified about your wallet balance on multiple Cosmos SDK chains at a set interval.
+* [cosmos-balance-bot](https://github.com/Reecepbcups/cosmos-balance-bot) ⚠️ Archived - Get notified about your wallet balance on multiple Cosmos SDK chains at a set interval.
 * [Cosmos Discord Bot](https://github.com/okp4/discord-bot) ⭐ 9 | 🐛 19 | 🌐 Rust | 📅 2026-04-22 - A general-purpose Discord bot for Cosmos SDK blockchains.
 * [Cosmos Discord Faucet](https://github.com/0x4139/cosmos-discord-faucet) ⭐ 7 | 🐛 1 | 🌐 JavaScript | 📅 2023-05-15 - A configurable Discord faucet for Cosmos SDK blockchains.
-* [validator-stats-notifications](https://github.com/Reecepbcups/validator-stats-notifs) ⭐ 2 | 🐛 2 | 🌐 Python | 📅 2023-06-22 - Discord announcements including ranking, delegations over time, and unique delegators.
-* [Secret Stashh NFT Bot](https://github.com/Reecepbcups/stashh-bot) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2023-08-28 - A discord bot to get notified of sales, auctions, and purchases for a Secret Network NFT collection.
+* [validator-stats-notifications](https://github.com/Reecepbcups/validator-stats-notifs) - Discord announcements including ranking, delegations over time, and unique delegators.
+* [Secret Stashh NFT Bot](https://github.com/Reecepbcups/stashh-bot) - A discord bot to get notified of sales, auctions, and purchases for a Secret Network NFT collection.
 * [DAODAO Treasury Bot](https://github.com/Reecepbcups/dao-treasury-bot) - A discord bot that keeps up with a DAO's treasury fiat value.
 * [Cosmos Price Bot](https://github.com/Reecepbcups/cosmos-price-bot) - A discord bot that nicknames to the USD price of any cosmos token via a DEX.
 
@@ -277,7 +277,7 @@ Templates to help you get started with building a Cosmos SDK blockchain.
 ### Utilities
 
 * [cosmos-operator](https://github.com/strangelove-ventures/cosmos-operator) ⭐ 103 | 🐛 53 | 🌐 Go | 📅 2026-04-11 - Cosmos Operator is a kubernetes operator for managing cosmos nodes.
-* [Cosmos Cache](https://github.com/Reecepbcups/cosmos-endpoint-cache) ⭐ 25 | 🐛 10 | 🌐 Python | 📅 2023-11-22 - Optimize Cosmos queries by caching responses for predefined sets of time (regex).
+* [Cosmos Cache](https://github.com/Reecepbcups/cosmos-endpoint-cache) ⚠️ Archived - Optimize Cosmos queries by caching responses for predefined sets of time (regex).
 * [Wallet-generator](https://github.com/Cordtus/wallet_generator) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-25 - Manually generate a keypair + wallet addresses from mnemonic, pubkey + wallet addresses from privkey, or wallet addresses from pubkey. Accepts arbitrary HDpath (incl. cointype)
 
 ## Ecosystem
@@ -313,4 +313,4 @@ As the ecosystem grows, so does the content. DYOR and follow the projects you fi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
