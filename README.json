@@ -15,8 +15,8 @@
             "id": 179141420,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T02:57:34Z",
-            "open_issues": 25,
+            "last_commit": "2026-11-25T09:15:00Z",
+            "open_issues": 24,
             "owner": "cosmos",
             "repo": "gaia",
             "stars": 573,
@@ -48,7 +48,7 @@
             "open_issues": 248,
             "owner": "cosmos",
             "repo": "cosmos-sdk",
-            "stars": 7092,
+            "stars": 7095,
             "topics": [
               "blockchain",
               "cometbft",
@@ -99,8 +99,8 @@
             "id": 581314918,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-24T21:49:04Z",
-            "open_issues": 314,
+            "last_commit": "2026-11-25T07:28:00Z",
+            "open_issues": 313,
             "owner": "cometbft",
             "repo": "cometbft",
             "stars": 938,
@@ -132,7 +132,7 @@
             "open_issues": 195,
             "owner": "cosmos",
             "repo": "cosmjs",
-            "stars": 699,
+            "stars": 700,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
@@ -264,7 +264,7 @@
                 "open_issues": 195,
                 "owner": "cosmos",
                 "repo": "cosmjs",
-                "stars": 699,
+                "stars": 700,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
@@ -870,10 +870,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-11-24T10:23:44Z",
-            "open_issues": 144,
+            "open_issues": 145,
             "owner": "cosmos",
             "repo": "chain-registry",
-            "stars": 571,
+            "stars": 572,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
@@ -1087,7 +1087,7 @@
             "open_issues": 0,
             "owner": "QuokkaStake",
             "repo": "cosmos-proposals-checker",
-            "stars": 18,
+            "stars": 17,
             "topics": []
           },
           "first_seen": "2026-08-29T02:24:33.051Z"
@@ -1264,7 +1264,7 @@
             "id": 705357782,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-24T21:31:38Z",
+            "last_commit": "2026-11-25T22:53:38Z",
             "open_issues": 25,
             "owner": "bryanlabs",
             "repo": "cosmos-indexer-sdk",
@@ -1337,7 +1337,7 @@
             "open_issues": 248,
             "owner": "cosmos",
             "repo": "cosmos-sdk",
-            "stars": 7092,
+            "stars": 7095,
             "topics": [
               "blockchain",
               "cometbft",
@@ -1543,8 +1543,8 @@
             "id": 169809972,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-21T01:09:06Z",
-            "open_issues": 113,
+            "last_commit": "2026-11-25T23:41:55Z",
+            "open_issues": 112,
             "owner": "lfdt-ibc",
             "repo": "ibc",
             "stars": 1023,
@@ -1766,7 +1766,7 @@
             "open_issues": 260,
             "owner": "quint-co",
             "repo": "quint",
-            "stars": 2194,
+            "stars": 2208,
             "topics": [
               "apalache",
               "formal-methods",
@@ -2065,7 +2065,7 @@
                 "open_issues": 248,
                 "owner": "cosmos",
                 "repo": "cosmos-sdk",
-                "stars": 7092,
+                "stars": 7095,
                 "topics": [
                   "blockchain",
                   "cometbft",
@@ -2380,7 +2380,7 @@
                 "open_issues": 0,
                 "owner": "QuokkaStake",
                 "repo": "cosmos-proposals-checker",
-                "stars": 18,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
@@ -2581,10 +2581,10 @@
                 "language": "Solidity",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-22T17:49:09Z",
-                "open_issues": 62,
+                "open_issues": 61,
                 "owner": "crytic",
                 "repo": "building-secure-contracts",
-                "stars": 2488,
+                "stars": 2489,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:24:33.051Z"
@@ -2599,7 +2599,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T03:07:51.301Z",
+    "last_updated": "2026-11-26T02:23:23.106Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of Cosmos related resources",
